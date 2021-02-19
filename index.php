@@ -811,7 +811,7 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                        <form id= "contactFormEmail" action="sendEmail.php" method="POST" class="contactForm"  class="contactForm">
+                        <form id= "contactFormEmail" class="contactForm">
                        
                         <input id="name" type="text" name="name" class="form-control"
                                     placeholder="name" size="15">
@@ -825,9 +825,9 @@
                                     <input id="message" type="text" name="message" class="form-control"
                                     placeholder="message" size="15">
 
-                                    <button class="button" name="submit" value="Send">Send</button>
+                                    <button class="button" onclick="sendEmail()" value="Send">Send</button>
                                     
-                           
+                           </form>
                            
                            
                            
