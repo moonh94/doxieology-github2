@@ -12,6 +12,8 @@
         crossorigin="anonymous"></script>
     <script src="./assets/javascript/apps.js"></script>
 
+    <?php include('./assets/contactform.php'); ?>
+
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
@@ -810,10 +812,10 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                        <form class="contactForm" action="./assets/contactform.php" method="post">
-
+                        <form class="contactForm" action="contactform.php" class="contactForm" method="POST" >
                             <div class="row">
                                 <div class="col">
+                                <h2>Contact us</h2>
                                     <div class="form-group">
                                         <label for="name"></label>
                                         <input type="text" name="name" class="form-control" id="formName"
@@ -882,6 +884,25 @@
             </div>
 
         </footer>
+
+        
+
+    <!-- // if (isset($_POST["submit"])) {
+    //      $name = $_POST["name"];
+    //      $number = $_POST["number"];
+    //      $email = $_POST["email"];
+    //      $message = $_POST["message"];
+
+    //      $mailTo = "hmmoon@hotmail.com";
+    //      $headers = "From: ".$mailFrom;
+    //      $txt= "You have an email from ".$name.".\n\n".$message; 
+
+    // mail($mailTo, $number, $email, $txt, $headers); 
+    // header("Location: index.php?mailsend");
+    
+    // } -->
+
+
     </div>
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
