@@ -25,7 +25,7 @@
 
         $mail->isHTML(true);
         $mail->setFrom($email, $name);
-        $mal->addAddress("doxieology.mcafee@gmail.com");
+        $mail->addAddress("doxieology.mcafee@gmail.com");
         $mail->Subject = ("$email ($subject)");
         $mail->Body = $body;
 
