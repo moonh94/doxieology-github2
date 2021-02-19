@@ -812,7 +812,16 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                        <form class="contactForm" action="contactform.php" class="contactForm" method="POST" >
+
+                    <form name="contactform" method="POST" action="contact.php">
+
+  <input type="text" name="name" id="user_name" placeholder="name" required />
+  <input type="email" name="email" id="user_email" placeholder="email" required />
+  <textarea type="text" name="message" id="comments" placeholder="message" required></textarea>
+
+  <input type="submit" id="submit" value="SEND" />
+</form>
+                        <!-- <form class="contactForm" action="contactform.php" class="contactForm" method="POST" >
                             <div class="row">
                                 <div class="col">
                                 <h2>Contact us</h2>
@@ -843,7 +852,7 @@
                                 <button class="button" type="submit" name="submit" value="send">Send</button>
                                 <button class="button" type="reset"  name="reset" value="clear">Clear</button>
                             </div>
-                        </form>
+                        </form> -->
                     </div>
                 </div>
                 <hr class="hrContact1">
