@@ -785,6 +785,7 @@
 
         <div class="parallaxBody parallax6"></div>
 
+
         <div class="section" id="contact">
             <h3 class="title">Contact Us</h3>
             <hr class="hrContact1">
@@ -809,7 +810,7 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                        <form class="contactForm" action="contactform.php" method="post">
+                        <form class="contactForm" action="./assets/contactform.php" method="post">
 
                             <div class="row">
                                 <div class="col">
@@ -837,8 +838,8 @@
                                     placeholder="Insert message" rows="5"></textarea>
                             </div>
                             <div class="btn">
-                                <input class="button" type="submit" value="send">
-                                <input class="button" type="reset" value="clear">
+                                <button class="button" type="submit" name="submit" value="send">Send</button>
+                                <button class="button" type="reset"  name="reset" value="clear">Clear</button>
                             </div>
                         </form>
                     </div>
