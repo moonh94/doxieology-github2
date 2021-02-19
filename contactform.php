@@ -2,6 +2,7 @@
 
     <?php 
     use PHPMailer\PHPMailer\PHPMailer; 
+
     if(isset($_POST['name']) && isset($_POST['email'])) {
         $name = $_POST['name'];
         $subject = $_POST['subject'];
@@ -12,7 +13,7 @@
         require_once = "PHPMailer/SMTIP.php";
         require_once = "PHPMailer/Exception.php";
 
-        $mail new PHPMailer();
+        $mail new PHPMailer(); 
 
         $mail->isSMTP();
         $mail->Host = "smtp.gmail.com";
@@ -40,3 +41,5 @@
         exit(json_encode(arrary("status" => $status, "response" => $response)));
     
     }
+
+    ?>
