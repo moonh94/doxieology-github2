@@ -13,24 +13,23 @@
         require_once = "PHPMailer/SMTP.php";
         require_once = "PHPMailer/Exception.php";
 
-        $mail = new PHPMailer(); 
+        $mail = new PHPMailer(true); 
 
         $mail->isSMTP();
         $mail->Host = "smtp.gmail.com";
         $mail->SMTPAuth = true;
         $mail->Username = "doxieology.mcafee@gmail.com";
-        $mail->Password +"Cosprings123";
-        $mail->Port = 465;
-        $mail->SMTPSecure = "ssl";
+        $mail->Password = "Cosprings123";
+        $mail->Port = 587;
+        $mail->SMTPSecure = "tls";
 
         $mail->isHTML(true);
         $mail->setFrom($email, $name);
         $mail->addAddress("doxieology.mcafee@gmail.com");
         $mail->Subject = ("$email ($subject)");
-        $mail->Body = $body;
+        $mail->Message = $message;
 
-        if($mail->send()){
-            $status = "success";
+        if($mail->send()){ 
             $response = "Email is sent!";
 
         }

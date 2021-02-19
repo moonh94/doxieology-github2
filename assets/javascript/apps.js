@@ -79,10 +79,9 @@ $(window).on("scroll", function () {
     var message = $("#message");
 
     if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(message)) {
-      $ajax({
+      $.ajax({
         url: 'sendEmail.php',
         method: 'POST',
-        dataType: 'json',
         data:{
           name: name.val(),
           email: email.val(),
