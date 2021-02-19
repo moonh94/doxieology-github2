@@ -73,7 +73,6 @@ $(window).on("scroll", function () {
 
 
   function sendEmail(){
-    e.preventDefault();
     var name = $("#name");
     var email = $("#email");
     var subject = $("#subject");
