@@ -816,7 +816,7 @@
                         <input id="name" type="text" name="name" class="form-control"
                                     placeholder="name" size="15">
 
-                                    <input id="email" type="text" name="mail" class="form-control"
+                                    <input id="email" type="text" name="email" class="form-control"
                                     placeholder="email" size="15">
 
                                     <input id="subject" type="text" name="subject" class="form-control"

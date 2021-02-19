@@ -1,12 +1,11 @@
 
 
     <?php 
-    use PHPMailer\PHPMailer\PHPMailer; 
 
-    if(isset($_POST['name']) && isset($_POST['email'])) {
+    if(isset($_POST['name']) && isset($_POST['email'])){
         $name = $_POST['name'];
         $subject = $_POST['subject'];
-        $mailFrom = $_POST['mail'];
+        $email = $_POST['email'];
         $message = $_POST['message'];
 
         require_once = "PHPMailer/PHPMailer.php";
