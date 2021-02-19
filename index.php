@@ -12,8 +12,6 @@
         crossorigin="anonymous"></script>
     <script src="./assets/javascript/apps.js"></script>
 
-    <?php include('./assets/contactform.php'); ?>
-
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
@@ -813,7 +811,7 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                        <form id= "contactFormEmail" class="contactForm" action='<?= $_SERVER['PHP_SERVER'] ?>' class="contactForm" method="POST" >
+                        <form id= "contactFormEmail" class="contactForm"  class="contactForm">
                        
                         <input id="name" type="text" name="name" class="form-control"
                                     placeholder="name" size="15">
