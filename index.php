@@ -814,11 +814,13 @@
                     <div class="col-sm-7">
                         <form class="contactForm" action='<?= $_SERVER['PHP_SERVER'] ?>' class="contactForm" method="POST" >
                         <input type="text" name="name" class="form-control"
-                                    placeholder="Your phone number" size="15">
-                                    <input type="text" name="email" class="form-control"
-                                    placeholder="Your phone number" size="15">
+                                    placeholder="name" size="15">
+                                    <input type="text" name="mail" class="form-control"
+                                    placeholder="email" size="15">
+                                    <input type="text" name="subject" class="form-control"
+                                    placeholder="subject" size="15">
                                     <input type="text" name="message" class="form-control"
-                                    placeholder="Your phone number" size="15">
+                                    placeholder="message" size="15">
                                     <button class="button" type="submit" name="submit" value="send">Send</button>
                                     
                            

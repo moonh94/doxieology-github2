@@ -1,15 +1,16 @@
 
  
  <?php 
- if (isset($_POST["submit"])) {
-         $name = $_POST["name"];
-         $email = $_POST["email"];
-         $message = $_POST["message"];
+ if (isset($_POST['submit'])) {
+         $name = $_POST['name'];
+         $subject = $_POST['subject'];
+         $mailFrom = $_POST['mail'];
+         $message = $_POST['message'];
 
          $mailTo = "hmmoon@hotmail.com";
          $headers = "From: ".$mailFrom; 
 
-    mail($mailTo, $number, $email, $headers); 
-    
+    mail($mailTo,$subject,$txt,$headers); 
+    header("Location: index.php?mailsend");
     }
     ?>
