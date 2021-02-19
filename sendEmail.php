@@ -1,6 +1,7 @@
 
 
     <?php 
+    use PHPMailer\PHPMailer\PHPMailer;
 
     if(isset($_POST['name']) && isset($_POST['email'])){
         $name = $_POST['name'];
@@ -33,7 +34,8 @@
             $response = "Email is sent!";
 
         }
-        else {
+        else 
+        {
             $status = "failed";
             $response = "Something went wrong: <br>" . $mail->ErrorInfo; 
         }
