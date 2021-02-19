@@ -89,12 +89,23 @@ $(window).on("scroll", function () {
           subject: subject.val(),
           message: message.val(),
 
-        }, succsess: function(response){
+        }, success: function(response){
           $('#contactFormEmail')[0].reset();
           $('.sent-notification').text("Message sent successfully.");
         }
         
-      })
+      });
+
     }
-   
+   function isNotEmpty(caller){
+     if(caller.val()==""){
+       caller.css('border', '1px solid red');
+       return false;
+
+     }
+     else {
+       caller.css('border', '');
+       return true;
+     }
+   }
   }
