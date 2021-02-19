@@ -9,7 +9,7 @@
          $mailTo = "hmmoon@hotmail.com";
          $headers = "From: ".$mailFrom; 
 
-    mail($mailTo,$number,$email,$headers); 
+    mail($mailTo, $number, $email, $headers); 
     
     }
     ?>
