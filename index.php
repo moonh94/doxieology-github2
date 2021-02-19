@@ -813,7 +813,7 @@
                     </div>
                     <div class="col-sm-7">
 
-                    <form name="contactform" method="POST" action="contact.php">
+                    <form name="contactform" method="POST" action="contactform.php">
 
   <input type="text" name="name" id="user_name" placeholder="name" required />
   <input type="email" name="email" id="user_email" placeholder="email" required />
