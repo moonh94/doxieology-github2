@@ -787,7 +787,6 @@
 
 
         <div class="section" id="contact">
-        <h4 class="sent-notification"></h4>
             <h3 class="title">Contact Us</h3>
             <hr class="hrContact1">
             <section class="contact--1">
@@ -811,7 +810,7 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                    <h4 class="sent-notification"> </h4>
+                    <h4 class="sent-notification"></h4>
                         <form id= "contactFormEmail" class="contactForm">
                        
                         <input id="name" type="text" name="name" class="form-control"
