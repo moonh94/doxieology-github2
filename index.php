@@ -812,17 +812,20 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-
-                    <form name="contactform" method="POST" action="contactform.php">
-
-  <input type="text" name="name" id="user_name" placeholder="name" required />
-  <input type="email" name="email" id="user_email" placeholder="email" required />
-  <textarea type="text" name="message" id="comments" placeholder="message" required></textarea>
-
-  <input type="submit" id="submit" value="SEND" />
-</form>
-                        <!-- <form class="contactForm" action="contactform.php" class="contactForm" method="POST" >
-                            <div class="row">
+                        <form class="contactForm" action='<?= $_SERVER['PHP_SERVER'] ?>' class="contactForm" method="POST" >
+                        <input type="text" name="name" class="form-control"
+                                    placeholder="Your phone number" size="15">
+                                    <input type="text" name="email" class="form-control"
+                                    placeholder="Your phone number" size="15">
+                                    <input type="text" name="message" class="form-control"
+                                    placeholder="Your phone number" size="15">
+                                    <button class="button" type="submit" name="submit" value="send">Send</button>
+                                    
+                           
+                           
+                           
+                           
+                            <!-- <div class="row">
                                 <div class="col">
                                 <h2>Contact us</h2>
                                     <div class="form-group">
@@ -894,22 +897,7 @@
 
         </footer>
 
-        
-
-    <!-- // if (isset($_POST["submit"])) {
-    //      $name = $_POST["name"];
-    //      $number = $_POST["number"];
-    //      $email = $_POST["email"];
-    //      $message = $_POST["message"];
-
-    //      $mailTo = "hmmoon@hotmail.com";
-    //      $headers = "From: ".$mailFrom;
-    //      $txt= "You have an email from ".$name.".\n\n".$message; 
-
-    // mail($mailTo, $number, $email, $txt, $headers); 
-    // header("Location: index.php?mailsend");
     
-    // } -->
 
 
     </div>
