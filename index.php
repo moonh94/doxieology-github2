@@ -825,7 +825,7 @@
                                     <input id="message" type="text" name="message" class="form-control"
                                     placeholder="message" size="15">
 
-                                    <button class="button" onclick="sendEmail()" value="Send">Send</button>
+                                    <button class="button" type="button" onclick="sendEmail()" value="Send">Send</button>
                                     
                            </form>
                            
