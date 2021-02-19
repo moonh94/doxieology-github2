@@ -789,6 +789,7 @@
 
 
         <div class="section" id="contact">
+        <h4 class="sent-notification"></h4>
             <h3 class="title">Contact Us</h3>
             <hr class="hrContact1">
             <section class="contact--1">
@@ -812,16 +813,21 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
-                        <form class="contactForm" action='<?= $_SERVER['PHP_SERVER'] ?>' class="contactForm" method="POST" >
-                        <input type="text" name="name" class="form-control"
+                        <form id= "contactFormEmail" class="contactForm" action='<?= $_SERVER['PHP_SERVER'] ?>' class="contactForm" method="POST" >
+                       
+                        <input id="name" type="text" name="name" class="form-control"
                                     placeholder="name" size="15">
-                                    <input type="text" name="mail" class="form-control"
+
+                                    <input id="email" type="text" name="mail" class="form-control"
                                     placeholder="email" size="15">
-                                    <input type="text" name="subject" class="form-control"
+
+                                    <input id="subject" type="text" name="subject" class="form-control"
                                     placeholder="subject" size="15">
-                                    <input type="text" name="message" class="form-control"
+
+                                    <input id="message" type="text" name="message" class="form-control"
                                     placeholder="message" size="15">
-                                    <button class="button" type="submit" name="submit" value="send">Send</button>
+
+                                    <button class="button" onclick="sendEmail()" value="Send">Send</button>
                                     
                            
                            
@@ -858,6 +864,25 @@
                                 <button class="button" type="reset"  name="reset" value="clear">Clear</button>
                             </div>
                         </form> -->
+
+                        
+
+ <!-- use PHPMailer\PHPMailer\PHPMailer; 
+
+ if (isset($_POST['submit'])) {
+         $name = $_POST['name'];
+         $subject = $_POST['subject'];
+         $mailFrom = $_POST['mail'];
+         $message = $_POST['message'];
+
+         $mailTo = "doxieology.mcafee@gmail.com";
+         $headers = "From: ".$mailFrom; 
+
+
+
+    mail($mailTo,$subject,$txt,$headers); 
+    header("Location: index.php?mailsend");
+     -->
                     </div>
                 </div>
                 <hr class="hrContact1">
@@ -905,6 +930,7 @@
     </div>
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script type="text/javascript" src="./assets/javascript/apps.js"></script>
 </body>
 </html>

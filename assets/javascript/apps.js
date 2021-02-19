@@ -70,3 +70,31 @@ $(window).on("scroll", function () {
     newheight = newheight  + 'px';
     div.height(newheight);
   }
+
+
+  function sendEmail(){
+    var name = $("#name");
+    var email = $("#email");
+    var subject = $("#subject");
+    var message = $("#message");
+
+    if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(message)) {
+      $ajax({
+        url: 'sendEmail.php',
+        method: 'POST',
+        dataType: 'json',
+        data:{
+          name: name.val(),
+          email: email.val(),
+          subject: subject.val(),
+          message: message.val(),
+
+        }, succsess: function(response){
+          $('#contactFormEmail')[0].reset();
+          $('.sent-notification').text("Message sent successfully.");
+        }
+        
+      })
+    }
+   
+  }
