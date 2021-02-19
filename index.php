@@ -811,6 +811,7 @@
                         </div>
                     </div>
                     <div class="col-sm-7">
+                    <h4 class="sent-notification"> </h4>
                         <form id= "contactFormEmail" class="contactForm">
                        
                         <input id="name" type="text" name="name" class="form-control"
@@ -928,7 +929,7 @@
     </div>
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
     <script type="text/javascript" src="./assets/javascript/apps.js"></script>
 </body>
 </html>
