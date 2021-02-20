@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/moonh94/doxiephp#readme",
   "dependencies": {
-    "ajax": "0.0.4"
+    "ajax": "0.0.4",
+    "jquery": "^3.5.1"
   }
 }

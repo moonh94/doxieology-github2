@@ -76,17 +76,18 @@ $(window).on("scroll", function () {
     var name = $("#name");
     var email = $("#email");
     var subject = $("#subject");
-    var message = $("#message");
+    var body = $("#body");
 
-    if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(message)) {
+    if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(body)) {
       $.ajax({
         url: 'sendEmail.php',
         method: 'POST',
+        dataType: 'json',
         data:{
           name: name.val(),
           email: email.val(),
           subject: subject.val(),
-          message: message.val(),
+          body: body.val(),
 
         }, success: function(response){
           $('#contactFormEmail')[0].reset();
