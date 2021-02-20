@@ -809,7 +809,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-7">
+                    <!-- <div class="col-sm-7">
                     <h4 class="sent-notification"></h4>
                         <form id= "contactFormEmail" class="contactForm" method="post" action="sendEmail.php">
                        
@@ -827,60 +827,36 @@
 
                                     <button class="button" type="button"  onclick="sendEmail()" value="Send An Email">Send</button>
                                     
-                           </form>
-                           
-                           
-                           
-                            <!-- <div class="row">
-                                <div class="col">
-                                <h2>Contact us</h2>
-                                    <div class="form-group">
-                                        <label for="name"></label>
-                                        <input type="text" name="name" class="form-control" id="formName"
-                                            placeholder="Your name" size="50">
-                                    </div>
+                           </form> -->
+                        
+                    <div class="col-sm-7">
+                        <h4 class="sent-notification"></h4>
+                        <form id= "contactFormEmail" class="contactForm" method="post" action="sendEmail.php">
+                            <div class="form-group">
+                                    <label for="name"></label>
+                                    <input id="name" type="text" name="name" class="form-control"  placeholder="Name" size="50">
+                            </div>
+                             
+                            <div class="form-group">
+                                <label for="name"></label>
+                                <input id="email" type="text" name="email" class="form-control" placeholder="Email" size="15">
                                 </div>
-                            </div>
+
                             <div class="form-group">
                                 <label for="name"></label>
-                                <input type="text" name="number" class="form-control" id="formNumber"
-                                    placeholder="Your phone number" size="15">
-                            </div>
-                            <div class="form-group">
-                                <label for="name"></label>
-                                <input type="text" name="email" class="form-control" id="formNumber"
-                                    placeholder="Your Email" size="15">
+                                <input id="subject" type="text" name="subject" class="form-control"  placeholder="Subject" size="15">
                             </div>
 
                             <div class="form-group">
                                 <label for="message"></label>
-                                <textarea name="message" class="form-control" id="formMessage" size="800"
-                                    placeholder="Insert message" rows="5"></textarea>
+                                <textarea id="body" name="body" class="form-control" size="800" placeholder="Message" rows="5"></textarea>
                             </div>
-                            <div class="btn">
-                                <button class="button" type="submit" name="submit" value="send">Send</button>
-                                <button class="button" type="reset"  name="reset" value="clear">Clear</button>
-                            </div>
-                        </form> -->
+
+                            <button class="button" type="button"  onclick="sendEmail()" value="Send An Email">Send</button>
+                            
+                        </form>
 
                         
-
- <!-- use PHPMailer\PHPMailer\PHPMailer; 
-
- if (isset($_POST['submit'])) {
-         $name = $_POST['name'];
-         $subject = $_POST['subject'];
-         $mailFrom = $_POST['mail'];
-         $message = $_POST['message'];
-
-         $mailTo = "doxieology.mcafee@gmail.com";
-         $headers = "From: ".$mailFrom; 
-
-
-
-    mail($mailTo,$subject,$txt,$headers); 
-    header("Location: index.php?mailsend");
-     -->
                     </div>
                 </div>
                 <hr class="hrContact1">
