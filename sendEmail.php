@@ -7,13 +7,27 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
+
+f(isset($_POST['name']) && isset($_POST['email'])){
+    $name = $_POST['name'];
+    $subject = $_POST['subject'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    require_once (= "PHPMailer/PHPMailer.php)";
+    require_once = "PHPMailer/SMTP.php";
+    require_once = "PHPMailer/Exception.php";
+
+    require 'vendor/autoload.php';
+
+
 //Load Composer's autoloader
 require 'vendor/autoload.php';
 
 //Instantiation and passing `true` enables exceptions
 $mail = new PHPMailer(true);
 
-try {
+
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
@@ -22,7 +36,8 @@ try {
     $mail->Username   = 'doxie-ology@gmail.com.com';                     //SMTP username
     $mail->Password   = 'Cosprings123';                               //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         //Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
-    $mail->Port       = 587;                                    //TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
+    $mail->Port       = 587;   
+    $mail->SMTPSecure = "tls";                                 //TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
     //Recipients
     $mail->setFrom($email, $name);
@@ -41,7 +56,8 @@ try {
 
     $mail->send();
     echo 'Message has been sent';
-} catch (Exception $e) {
+
+    catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
 
