@@ -71,7 +71,18 @@ $(window).on("scroll", function () {
     div.height(newheight);
   }
 
-
+  function openNav() {
+    document.getElementById("mySidepanel").style.width = "100%";
+    document.getElementById("mySidepanel").style.display = "block";
+  
+  
+  }
+  
+  function closeNav() {
+    document.getElementById("mySidepanel").style.width = "0";
+    document.getElementById("mySidepanel").style.display = "none";
+  }
+  
   function sendEmail(){
     var name = $("#name");
     var email = $("#email");
