@@ -24,7 +24,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
   $mail->isHTML(true);
 $mail->setFrom($email, $name);
 $mail->addAddress("doxieology.mcafee@gmail.com");
-$mail->Subject = ("$email ($subject)");
+$mail->Subject = ("$name ($email) ($subject)");
 $mail->Body = $body;
 if($mail->send()){
   $status = "success";
