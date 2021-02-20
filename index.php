@@ -11,7 +11,8 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
         integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
         crossorigin="anonymous"></script>
-
+    <script type="text/javascript" src="./assets/javascript/apps.js"></script>
+    
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
@@ -809,25 +810,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-sm-7">
-                    <h4 class="sent-notification"></h4>
-                        <form id= "contactFormEmail" class="contactForm" method="post" action="sendEmail.php">
-                       
-                        <input id="name" type="text" name="name" class="form-control"
-                                    placeholder="name" size="15">
-
-                                    <input id="email" type="text" name="email" class="form-control"
-                                    placeholder="email" size="15">
-
-                                    <input id="subject" type="text" name="subject" class="form-control"
-                                    placeholder="subject" size="15">
-
-                                    <input id="body" type="text" name="message" class="form-control"
-                                    placeholder="message" size="15">
-
-                                    <button class="button" type="button"  onclick="sendEmail()" value="Send An Email">Send</button>
-                                    
-                           </form> -->
+                
                         
                     <div class="col-sm-7">
                         <h4 class="sent-notification"></h4>
