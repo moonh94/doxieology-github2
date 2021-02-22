@@ -16,14 +16,14 @@ if(isset($_POST['name']) && isset($_POST['email'])){
   $mail->isSMTP();
   $mail->Host = "smtp.gmail.com";
   $mail->SMTPAuth = true;
-  $mail->Username = "doxieology2019@gmail.com";
-  $mail->Password = "Donte2019";
+  $mail->Username = "doxieology.mcafee@gmail.com";
+  $mail->Password = "StudiO420";
   $mail->Port = 465;
   $mail->SMTPSecure = "ssl";
 
   $mail->isHTML(true);
 $mail->setFrom($email, $name);
-$mail->addAddress("doxieology2019@gmail.com");
+$mail->addAddress("doxieology.mcafee@gmail.com");
 $mail->Subject = ("$name ($email) ($subject)");
 $mail->Body = $body;
 if($mail->send()){
