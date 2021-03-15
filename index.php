@@ -851,7 +851,16 @@
             <div class="footerLogo">
                 <img src="assets/img/logoFigma.png" alt="logo" class="logoFooter">
                 <br>
-                <p class="cashMethod">Accepting paypal or cash at pickup.</p>
+                <p class="cashMethod">Accepting PayPal or cash at pickup.</p>
+
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="499HBPFFHUZDN">
+                    <input type="image" class="paypalLogo" src="./assets/img/paypal128-1.png" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                    
+                </form>
+
+
             </div>
             <br>
             <div class="row">
