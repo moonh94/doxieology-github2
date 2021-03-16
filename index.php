@@ -727,7 +727,7 @@
             <section class="expecting">
             <div class="row">
                     <div class="col-sm-12">
-                        <p>Honey and Beau are expecting! Coming soon. </p>
+                        <p>Honey and Beau are expecting puppies May 2021! </p>
                     </div>
                 </div>
                 <div class="row">
