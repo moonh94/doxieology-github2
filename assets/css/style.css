@@ -572,12 +572,15 @@ footer {
  
 .card__picture2--1{
     background-image: url(../img/bellapup1-1.jpg);
+    height:75%;
 }
 .card__picture2--2{
     background-image: url(../img/bellapup4-1edit.jpg);
+    height: 75%;
 }
 .card__picture2--3{
     background-image: url(../img/bellapup3-1.jpg);
+    height: 75%;
 }
 .card__picture2--4{
     background-image: url(../img/bellapup2-1.jpg);
