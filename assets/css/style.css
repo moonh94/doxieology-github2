@@ -278,6 +278,17 @@ nav.black .nav-link:hover{
 
 .pups {
     display: block;
+    padding-top: 20px;
+
+}
+.litterParents {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize;
+
+
 }
 
 .stayTunedParagraph {
@@ -290,6 +301,12 @@ nav.black .nav-link:hover{
     font-style: italic;
 }
 .expecting {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
     margin: 2rem 4rem;
     overflow-x: hidden;
 
@@ -504,6 +521,7 @@ footer {
         background-repeat: no-repeat;
           background-size: cover;
      }
+
 .card__picture--1 {
     background-image: url(../img/donte2.jpg);
          
@@ -538,7 +556,71 @@ footer {
 .card__picture--9{
     background-image: url(../img/shelby7.jpg);
 }
-   
+
+
+.card__picture2 {
+    background-size: contain;
+    height: 23rem;
+    background-blend-mode: screen;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 70%, 0 90%);
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 90%);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px; 
+    background-repeat: no-repeat;
+      background-size: cover;
+ }
+ 
+.card__picture2--1{
+    background-image: url(../img/bellapup1-1.jpg);
+}
+.card__picture2--2{
+    background-image: url(../img/bellapup4-1edit.jpg);
+}
+.card__picture2--3{
+    background-image: url(../img/bellapup3-1.jpg);
+}
+.card__picture2--4{
+    background-image: url(../img/bellapup2-1.jpg);
+}
+
+.card__side--back2-1{
+    background-image:url(../img/bellapup1-2edit.jpg);
+}
+.card__side--back2-2{
+    background-image:url(../img/bellapup4-2.jpg);
+}
+.card__side--back2-3{
+    background-image:url(../img/bellapup3-2.jpg);
+}
+.card__side--back2-4{
+    background-image:url(../img/bellapup2-2.jpg);
+}
+
+.card__picture2--5{
+    background-image: url(../img/pearlpupf1-1.jpg);
+}
+.card__picture2--6{
+    background-image: url(../img/pearlpupf2-1.jpg);
+}
+.card__picture2--7{
+    background-image: url(../img/pearlpupm1-1.jpg);
+}
+.card__picture2--8{
+    background-image: url(../img/pearlpupm2-1.jpg);
+}
+
+.card__side--back2-5{
+    background-image:url(../img/pearlpupf1-2.jpg);
+}
+.card__side--back2-6{
+    background-image:url(../img/pearlpupf2-2edit.jpg);
+}
+.card__side--back2-7{
+    background-image:url(../img/pearlpupm1-2.jpg);
+}
+.card__side--back2-8{
+    background-image:url(../img/pearlpupm2-2.jpg);
+}
 .card__heading {
         font-size: 1.3rem;
         font-weight: 400rem;
@@ -707,7 +789,7 @@ button:active, .button:focus {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2); }
 
 .pups {
-    display:none;
+    display:block;
 }
 
 @media only screen and (max-width: 767px) {
@@ -970,6 +1052,7 @@ body{
     font-size: 12px;
     margin-bottom: 10px;
 }
+
 .card__heading {
     font-size: 16px;
 }

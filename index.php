@@ -515,22 +515,27 @@
                     </p>
                 </div>
             </section>
-
-            <section class="pups">
+        </div>
+            <section class="section pups" id="availPups">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="litterParents">
+                        <img src="./assets/img/bellaDonte-1.jpg" alt="bellaAndDonte" class="expectingPic1"></img>
+                        <br>
+                        <p>Meet Bella and Donte's puppies. </p>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="row">
                     <div class="col-sm-3">
                         <div class="card" id="flip-card">
                             <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture card__picture--1"></div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future Puppy</span>
-                                </h4>
+                                <div class="card__picture2 card__picture2--1"></div>
                                 <div class="card__details">
                                     <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
+                                        <li>Female </li>
+                                        <li>Available </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
@@ -541,213 +546,175 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-2"></div>
+                            <div class="card__side card__side--back card__side--back2-1"></div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--2"></div>
+                                <div class="card__details">
+                                    <ul>
+                                        <li>Female </li>
+                                        <li>Available </li>
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back2-2"></div>
                         </div>
                     </div>
 
                     <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future Puppy</span>
-                                </h4>
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--3"></div>
+                                
                                 <div class="card__details">
                                     <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
+                                        <li>Female </li>
+                                        <li>Reserved </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
                                             </button>
                                         </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back-2"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future Puppy</span>
-                                </h4>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back-2">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future
-                                        Puppy</span>
-                                </h4>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </div>
 
-                            </div>
-                            <div class="card__side card__side--back card__side--back-2">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future
-                                        Puppy</span>
-                                </h4>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-2">
-                            </div>
+                            <div class="card__side card__side--back card__side--back2-3"></div>
                         </div>
                     </div>
 
                     <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future
-                                        Puppy</span>
-                                </h4>
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--4"></div>
                                 <div class="card__details">
                                     <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
+                                        <li>Female </li>
+                                        <li>Reserved </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
                                             </button>
                                         </li>
+
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-2"></div>
+                            <div class="card__side card__side--back card__side--back2-4"></div>
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col-sm-12">
+                        <div class="litterParents">
+                        <img src="./assets/img/duncanPearl.jpg" alt="duncanAndPearl" class="expectingPic1"></img>
+                        <br>
+                        <p>Meet Pearl and Duncan's puppies </p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="row">
+                    <div class="col-sm-3">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--5"></div>
+                                <div class="card__details">
+                                    <ul>
+                                        <li>Female </li>
+                                        <li>Reserved </li>
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back2-5"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--6"></div>
+                                
+                                <div class="card__details">
+                                    <ul>
+                                        <li>Female </li>
+                                        <li>Reserved </li>
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back2-6"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--7"></div>
+                                <div class="card__details">
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Reserved </li>
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back2-7"></div>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future
-                                        Puppy</span>
-                                </h4>
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picture2 card__picture2--8"></div>
                                 <div class="card__details">
                                     <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
+                                        <li>Male </li>
+                                        <li>Reserved </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
                                             </button>
                                         </li>
+
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-2"></div>
+                            <div class="card__side card__side--back card__side--back2-8"></div>
                         </div>
                     </div>
-                    <div class="col-sm-3">
-                        <div class="card">
-                            <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--1">
-                                    &nbsp;
-                                </div>
-                                <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Future
-                                        Puppy</span>
-                                </h4>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Color | Gender | Hair Length </li>
-                                        <li>Date of birth</li>
-                                        <li>Dam and Sire</li>
-                                        <li>Short paragraph about their character</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back-2"></div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                    </div>  
+          </section>
 
         </div>
 
@@ -758,28 +725,33 @@
 
 
             <section class="expecting">
+            <div class="row">
+                    <div class="col-sm-12">
+                        <p>Honey and Beau are expecting! Coming soon. </p>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-sm-1 col-md-1"></div>
                     <div class="col-sm-5 col-md-5">
                         <div class="expectingContent">
                             <div class="expectingPic">
-                                <img src="assets/img/bellaDonte-1.jpg" alt="bellaAndPearl" class="expectingPic1">
+                                <img src="assets/img/beau4.jpg" alt="beau" class="expectingPic1">
                                 <br>
-                                Donte and Bella are expecting puppies March 2021!
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-5 col-md-5">
                         <div class="expectingContent">
                             <div class="expectingPic">
-                                <img src="assets/img/duncanPearl.jpg" alt="duncanAndPearl" class="expectingPic2">
+                                <img src="assets/img/honeyprof.jpg" a
+                                lt="honey" class="expectingPic2">
                                 <br>
-                                Duncan and Pearl are expecting puppies March 2021!
                             </div>
                         </div>
                         <div class="col-sm-1 col-sm-1"></div>
                     </div>
-
+                </div>
+              
             </section>
 
         </div>
