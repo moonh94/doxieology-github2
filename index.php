@@ -743,8 +743,7 @@
                     <div class="col-sm-5 col-md-5">
                         <div class="expectingContent">
                             <div class="expectingPic">
-                                <img src="assets/img/honeyprof.jpg" a
-                                lt="honey" class="expectingPic2">
+                                <img src="assets/img/honeyprof.jpg" alt="honey" class="expectingPic2">
                                 <br>
                             </div>
                         </div>
