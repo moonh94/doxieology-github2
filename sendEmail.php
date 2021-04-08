@@ -18,8 +18,8 @@ if(isset($_POST['name']) && isset($_POST['email'])){
   $mail->SMTPAuth = true;
   $mail->Username = "doxieology.mcafee@gmail.com";
   $mail->Password = "Cosprings123";
-  $mail->Port = 465;
-  $mail->SMTPSecure = "ssl";
+  $mail->Port = 587;
+  $mail->SMTPSecure = "tls";
 
   $mail->isHTML(true);
 $mail->setFrom($email, $name);
