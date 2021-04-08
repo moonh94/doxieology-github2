@@ -501,6 +501,7 @@ footer {
     }
 .card__side--back-7 {
         background-image:url(../img/hope4.jpg);
+
     }
 
 .card__side--back-8 {
@@ -571,11 +572,11 @@ footer {
  }
  
 .card__picture2--1{
-    background-image: url(../img/bellapup1-1.jpg);
+    background-image: url(../img/femaile1-front.jpg);
     height:70%;
 }
 .card__picture2--2{
-    background-image: url(../img/bellapup4-1edit.jpg);
+    background-image: url(../img/female2-front.jpg);
     height: 70%;
 }
 .card__picture2--3{
@@ -588,10 +589,10 @@ footer {
 }
 
 .card__side--back2-1{
-    background-image:url(../img/bellapup1-2edit.jpg);
+    background-image:url(../img/female1-back.jpg);
 }
 .card__side--back2-2{
-    background-image:url(../img/bellapup4-2.jpg);
+    background-image:url(../img/female2-back.jpg);
 }
 .card__side--back2-3{
     background-image:url(../img/bellapup3-2.jpg);
@@ -613,7 +614,7 @@ footer {
     height: 70%;
 }
 .card__picture2--8{
-    background-image: url(../img/pearlpupm2-1.jpg);
+    background-image: url(../img/male-front.jpg);
     height: 70%;
 }
 
@@ -627,7 +628,7 @@ footer {
     background-image:url(../img/pearlpupm1-2.jpg);
 }
 .card__side--back2-8{
-    background-image:url(../img/pearlpupm2-2.jpg);
+    background-image:url(../img/male-back.jpg);
 }
 .card__heading {
         font-size: 1.3rem;
