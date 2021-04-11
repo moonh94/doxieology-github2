@@ -699,7 +699,7 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Male </li>
-                                        <li>Available</li>
+                                        <li>Reserved</li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
