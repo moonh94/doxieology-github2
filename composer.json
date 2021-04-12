@@ -1,4 +1,6 @@
-{
+{   
+    "name": "phpmailer/doxieology",
+    "description": "Doxieology Website",
     "require": {
         "phpmailer/phpmailer": "^6.3",
         "league/oauth2-client": "^2.6"

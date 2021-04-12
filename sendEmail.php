@@ -3,17 +3,19 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
+require "./vendor/autoload.php";
+
+
 if(isset($_POST['name']) && isset($_POST['email'])){
   $name = $_POST['name'];
   $email = $_POST['email'];
   $subject = $_POST['subject'];
   $body = $_POST['body'];
 
-  require "vendor/autoload.php";
+
 
   $mail = new PHPMailer();
   $mail->isSMTP();
-  $mail->Mailer = "smtp";
   $mail->Host = "smtp.gmail.com";
   $mail->SMTPAuth = true;
   $mail->Username = "doxieology.mcafee@gmail.com";
