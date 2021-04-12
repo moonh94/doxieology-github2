@@ -14,7 +14,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
 
 
   $mail = new PHPMailer();
-  $mail->isSMTP();
+  $mail->isSMTP(true);
   $mail->Host = "smtp.gmail.com";
   $mail->SMTPAuth = true;
   $mail->Username = "doxieology.mcafee@gmail.com";
