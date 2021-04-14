@@ -15,6 +15,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
 
   $mail = new PHPMailer();
   $mail->isSMTP(true);
+  $mail->SMTPDebug = SMTP::DEBUG_SERVER;
   $mail->Host = "smtp.gmail.com";
   $mail->SMTPAuth = true;
   $mail->Username = "doxieology.mcafee@gmail.com";
@@ -23,7 +24,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
   $mail->SMTPSecure = "ssl";
 
   $mail->isHTML(true);
-$mail->setFrom($email, $name);
+$mail->SetFrom($email, $name);
 $mail->addAddress("doxieology.mcafee@gmail.com");
 $mail->Subject = ("$name ($email) ($subject)");
 $mail->Body = $body;
