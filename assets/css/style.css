@@ -801,6 +801,16 @@ button:active, .button:focus {
     display:block;
 }
 
+.HonB,
+.HopeB {
+    display:inline-block;
+}
+.expectingPicHopeB,
+.expectingPicHonB {
+    width: 350px;
+    height: auto;
+}
+
 @media only screen and (max-width: 767px) {
 
 body{
@@ -1000,6 +1010,15 @@ section {
     display: inline-block;
 }
 
+.HonB
+.HopeB {
+    display:inline-block;
+}
+.expectingPicHopeB,
+.expectingPicHonB {
+    width: 100px;
+    height: auto;
+}
 
 
 }

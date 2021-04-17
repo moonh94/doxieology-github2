@@ -38,7 +38,7 @@
             <a href="#aboutUs">About Us</a>
             <a href="#parentInfo">Our Dogs</a>
             <a href="#availPups">Puppies</a>
-            <a href="#availPups">Upcoming Litters</a>
+            <a href="#upcoming">Upcoming Litters</a>
             <a href="#contact">Contact Us</a>
         </div>
         <button class="openbtn" onclick="openNav()">&#9776;</button>
@@ -725,7 +725,7 @@
 
 
             <section class="expecting">
-            <div class="row">
+            <!-- <div class="row">
                     <div class="col-sm-12">
                         <p>Honey and Beau are expecting puppies May 2021! </p>
                     </div>
@@ -749,7 +749,27 @@
                         </div>
                         <div class="col-sm-1 col-sm-1"></div>
                     </div>
-                </div>
+                </div> -->
+                <div class="row">
+                    <div class="col-sm-12 expectingHB">
+                        <div class="HopeB">
+                        <img src="assets/img/honeyprof.jpg" alt="honey" class="expectingPicHonB">
+                        <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHonB">
+                    </div>
+                    <br>
+                        <p class="expectingDescription">Hope and Beau are expecting puppies May 2021! </p>
+                    </div>
+                </div>  
+                <div class="row">
+                    <div class="col-sm-12 expectingHB">
+                        <div class="HonB">
+                        <img src="assets/img/hopeProf.jpg" alt="honey" class="expectingPicHopeB">
+                        <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHopeB">
+                    </div>
+                    <br>
+                        <p class="expectingDescription">Hope and Beau are expecting puppies May 2021! </p>
+                    </div>
+                </div>  
               
             </section>
 
