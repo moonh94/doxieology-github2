@@ -808,7 +808,8 @@ button:active, .button:focus {
 .expectingPicHopeB,
 .expectingPicHonB {
     width: 350px;
-    height: auto;
+    height:350px;
+    object-fit: cover;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1016,12 +1017,14 @@ section {
 }
 .expectingPicHopeB{
     width: 110px;
-    height: auto:
+    height: 110px;
+    object-fit: cover;
 }
 
 .expectingPicHonB {
     width: 110px;
-    height: auto;
+    height: 110px;
+    object-fit: cover;
 }
 
 }
