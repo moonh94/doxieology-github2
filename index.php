@@ -757,7 +757,7 @@
                         <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHonB">
                     </div>
                     <br>
-                        <p class="expectingDescription">Hope and Beau are expecting puppies May 2021! </p>
+                        <p class="expectingDescription">Honey and Beau are expecting puppies May 2021! </p>
                     </div>
                 </div>  
                 <div class="row">
