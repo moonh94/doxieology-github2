@@ -1014,12 +1014,15 @@ section {
 .HopeB {
     display:inline-block;
 }
-.expectingPicHopeB,
+.expectingPicHopeB{
+    width: 100px;
+    height: auto:
+}
+
 .expectingPicHonB {
     width: 100px;
     height: auto;
 }
-
 
 }
 
