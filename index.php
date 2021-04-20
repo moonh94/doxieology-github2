@@ -199,6 +199,20 @@
                         </p>
                     </div>
                 </div>
+                <div class="reviewRef"> 
+                    <div class="reviewSection">
+                    <div class="reviewTitle">Reviews and References </div>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <p class="reviewPar"> So happy to say that after months of searching and avoiding scams, my daughter got this baby for her birthday! 
+                        Thanks to Denise McAfee, (very professional breeder in SC.) Excellent experience! </p>
+                      
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
+                
+                    </div>
+                </div>
+
             </div>
         </div>
 

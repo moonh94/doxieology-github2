@@ -229,7 +229,7 @@ nav.black .nav-link:hover{
 }
  #aboutUs {
      height: 600px;
-     font-size: 18px;
+     font-size: 16px;
  }
 
 .title {
@@ -811,6 +811,35 @@ button:active, .button:focus {
     height:350px;
     object-fit: cover;
 }
+.reviewSection {
+    display: block;
+
+}
+.reviewTitle {
+    font-size: 22px;
+    margin: 10px;
+}
+    
+.reviews{
+    text-align: left;
+    font-size: 16px;
+    padding: 1% 25%;
+
+}
+
+.reviewSection {
+    display: block;
+
+}
+.reviewPar {
+    text-indent: 25px;
+}
+
+.fa-quote-right {
+    text-align: right;
+    float:right;
+}
+
 
 @media only screen and (max-width: 767px) {
 
@@ -968,6 +997,28 @@ section {
     height: auto;
 }
 
+.reviewSection {
+    display: block;
+
+}
+.reviewTitle {
+    font-size: 18px;
+    margin: 10px;
+}
+    
+.reviews{
+    text-align: left;
+    font-size: 14px;
+    padding: 1% 15% 7% 15%;
+
+}
+.fa-quote-right {
+    text-align: right;
+    float:right;
+}
+.reviewPar {
+    text-indent: 25px;
+}
 .title {
     text-align: center;
     font-size: 18px;
