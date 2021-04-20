@@ -831,9 +831,14 @@ button:active, .button:focus {
     display: block;
 
 }
+.reviewAuthor {
+    float: right;
+    
+}
 .reviewPar {
     text-indent: 25px;
 }
+
 
 .fa-quote-right {
     text-align: right;

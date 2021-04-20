@@ -206,7 +206,10 @@
                         <br>
                         <p class="reviewPar"> So happy to say that after months of searching and avoiding scams, my daughter got this baby for her birthday! 
                         Thanks to Denise McAfee, (very professional breeder in SC.) Excellent experience! </p>
-                      
+                        
+                        <p class="reviewAuthor">-Jessica Cottrell Porcelli </p>
+                        <br>
+                        <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
                 
