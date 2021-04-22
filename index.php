@@ -204,10 +204,13 @@
                     <div class="reviewTitle">Reviews and References </div>
                     <div class="reviews"><i class="fas fa-quote-left"></i>  
                         <br>
-                        <p class="reviewPar"> So happy to say that after months of searching and avoiding scams, my daughter got this baby for her birthday! 
+                        <div class="reviewContent">
+                        <img class="reviewImg" src="./assets/img/reviewJessica.jpg"> </img>
+                        <p class="reviewPar">So happy to say that after months of searching and avoiding scams, my daughter got this baby for her birthday! 
                         Thanks to Denise McAfee, (very professional breeder in SC.) Excellent experience! </p>
-                        
                         <p class="reviewAuthor">-Jessica Cottrell Porcelli </p>
+                        </div>
+                       
                         <br>
                         <br>
                         <i class="fas fa-quote-right"></i> 

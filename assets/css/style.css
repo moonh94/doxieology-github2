@@ -826,7 +826,16 @@ button:active, .button:focus {
     padding: 1% 25%;
 
 }
-
+.reviewImg {
+    width:125px;
+    height: auto;
+    float: left;
+    margin: 0 15px 0 15px;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 2px 6px 0 rgba(0, 0, 0, 0.19);
+}
+.reviewContent {
+    display: inline-block;
+}
 .reviewSection {
     display: block;
 
@@ -835,9 +844,7 @@ button:active, .button:focus {
     float: right;
     
 }
-.reviewPar {
-    text-indent: 25px;
-}
+
 
 
 .fa-quote-right {
@@ -1010,20 +1017,27 @@ section {
     font-size: 18px;
     margin: 10px;
 }
-    
+.reviewImg {
+    width: 110px;
+    height: auto;
+    float: left;
+    margin: 0 15px 0 15px;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 2px 6px 0 rgba(0, 0, 0, 0.19);
+}
+.reviewContent {
+    display: inline-block;
+}
 .reviews{
     text-align: left;
-    font-size: 14px;
-    padding: 1% 15% 7% 15%;
+    font-size: 12.5px;
+    padding: 1% 7% 7% 7%;
 
 }
 .fa-quote-right {
     text-align: right;
     float:right;
 }
-.reviewPar {
-    text-indent: 25px;
-}
+
 .title {
     text-align: center;
     font-size: 18px;
