@@ -621,7 +621,7 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
-                                        <li>Available</li>
+                                        <li>Sold</li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
@@ -676,7 +676,7 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
-                                        <li>Reserved </li>
+                                        <li>Sold</li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
@@ -698,7 +698,7 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Male</li>
-                                        <li>Reserved</li>
+                                        <li>Sold</li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
@@ -719,7 +719,7 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Male </li>
-                                        <li>Reserved</li>
+                                        <li>Sold</li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
