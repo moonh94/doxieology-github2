@@ -215,6 +215,19 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
+                    <br>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <div class="reviewContent">
+                        <p class="reviewPar">Dave and Denise were number one, from deposit to delivery, we will be back for another baby!
+                            Photos and weekly updates from time of birth through eight weeks and beyond, they have been both personal and professional. </p>
+                        <p class="reviewAuthor">-Casey, Kaydy and Leasa White</p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
                 
                     </div>
                 </div>
