@@ -229,6 +229,23 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <div class="reviewContent">
+                        <img class="reviewImg" src="./assets/img/review3Pic.jpg"> </img>
+                        <p class="reviewPar">    
+                            “Thank you so very much💕 https://www.doxie-ology.com.
+                            Denise and Dave McAfee who specialize in cream and red Dachys, are the way to go when you're looking for an amazing new addition to your home and family! 
+                            Ms. Jazzy has come all the way from South Carolina, and let me tell you this is one of the sweetest little baby’s we could have ever gotten❤️
+                            We are so excited to add this little missy to the Doxie Fam out here at L&K Doxies! She is going to be very loved❤️🥰
+                            Thank you both so much for raising baby’s with the best temperament and beauty❤️❤️❤️” </p>
+                        <p class="reviewAuthor">-Kaydy White</p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
                 
                     </div>
                 </div>
@@ -759,39 +776,20 @@
 
 
             <section class="expecting">
-            <!-- <div class="row">
-                    <div class="col-sm-12">
-                        <p>Honey and Beau are expecting puppies May 2021! </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-1 col-md-1"></div>
-                    <div class="col-sm-5 col-md-5">
-                        <div class="expectingContent">
-                            <div class="expectingPic">
-                                <img src="assets/img/beau4.jpg" alt="beau" class="expectingPic1">
-                                <br>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-5 col-md-5">
-                        <div class="expectingContent">
-                            <div class="expectingPic">
-                                <img src="assets/img/honeyprof.jpg" alt="honey" class="expectingPic2">
-                                <br>
-                            </div>
-                        </div>
-                        <div class="col-sm-1 col-sm-1"></div>
-                    </div>
-                </div> -->
+        
                 <div class="row">
                     <div class="col-sm-12 expectingHB">
                         <div class="HopeB">
-                        <img src="assets/img/honeyprof.jpg" alt="honey" class="expectingPicHonB">
-                        <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHonB">
+                        <img src="assets/img/honey'sLitter-1.jpg" alt="honey's litter" class="expectingPicHonB">
+                        <!-- <img src="assets/img/honeyprof.jpg" alt="honey" class="expectingPicHonB">
+                        <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHonB"> -->
                     </div>
                     <br>
-                        <p class="expectingDescription">Honey and Beau are expecting puppies May 2021! </p>
+                        <p class="expectingDescription">
+                        Honey and Beau's puppies have arrived! 
+                        <br>
+                        We welcome three reds- two girls and a boy, and 
+                        two creams- a boy and a girl </p>
                     </div>
                 </div>  
                 <div class="row">
