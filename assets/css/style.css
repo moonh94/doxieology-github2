@@ -1092,8 +1092,8 @@ section {
 }
 
 .expectingPicHonB {
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: auto;
     object-fit: cover;
 }
 
