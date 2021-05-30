@@ -292,7 +292,7 @@ nav.black .nav-link:hover{
 }
 
 .stayTunedParagraph {
-    display: block;
+    display: none;
     font-size: 1x8px;
     font-weight: 500;
     text-align: center;
@@ -564,13 +564,50 @@ footer {
     height: 23rem;
     background-blend-mode: screen;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 70%, 0 90%);
-    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 90%);
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 90%);
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; 
     background-repeat: no-repeat;
       background-size: cover;
  }
- 
+ .card__pictureHoney-1{
+    background-image: url(../img/HPFF1.jpg);
+    height:70%;
+ }
+ .card__pictureHoney-2{
+    background-image: url(../img/HPFF2.jpg);
+    height:70%;
+ }
+ .card__pictureHoney-3{
+    background-image: url(../img/HPFF3.jpg);
+    height:70%;
+ }
+ .card__pictureHoney-4{
+    background-image: url(../img/HPMF1.jpg);
+    height:70%;
+ }
+ .card__pictureHoney-5{
+    background-image: url(../img/HPMF2.jpg);
+    height:70%;
+ }
+
+ .card__side--backHoney-1{
+    background-image:url(../img/HPFB1.jpg);
+ }
+ .card__side--backHoney-2{
+    background-image:url(../img/HPFB2.jpg);
+ }
+ .card__side--backHoney-3{
+    background-image:url(../img/HPFB3.jpg);
+ }
+ .card__side--backHoney-4{
+    background-image:url(../img/HPMB1.jpg);
+ }
+ .card__side--backHoney-5{
+    background-image:url(../img/HPMB2.jpg);
+    
+ }
+
 .card__picture2--1{
     background-image: url(../img/femaile1-front.jpg);
     height:70%;
