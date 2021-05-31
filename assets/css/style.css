@@ -473,7 +473,8 @@ footer {
     -moz-transform: rotateY(180deg);
     -o-transform: rotateY(180deg);
     transform: rotateY(180deg);
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
     background-repeat: no-repeat; 
     cursor: pointer;
     
@@ -500,15 +501,15 @@ footer {
         background-image:url(../img/pearl2cropped.jpg);
     }
 .card__side--back-7 {
-        background-image:url(../img/hope4.jpg);
+        background-image:url(../img/hopeBack.jpg);
 
     }
 
 .card__side--back-8 {
-        background-image:url(../img/luna5-1.jpg);
-    }
+        background-image:url(../img/lunaBack.jpg);
+}
 .card__side--back-9{
-        background-image:url(../img/shelby1-2.jpg);
+        background-image:url(../img/shelbyBack.jpg);
     }
 
 .card__picture {
@@ -548,14 +549,14 @@ footer {
            
           }
 .card__picture--7{
-     background-image: url(../img/hope5.jpg);
+     background-image: url(../img/hopeFront.jpg);
            
           }
 .card__picture--8{
-    background-image: url(../img/luna3-1.jpg);
+    background-image: url(../img/lunaFront.jpg);
 }
 .card__picture--9{
-    background-image: url(../img/shelby7.jpg);
+    background-image: url(../img/shelbyFront.jpg);
 }
 
 
