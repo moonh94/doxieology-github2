@@ -586,8 +586,8 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
+                                        <li>Cream | Long Hair</li>
                                         <li>Sold</li>
-                                        <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
@@ -607,8 +607,8 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
+                                        <li>Red | Long Hair</li>
                                         <li>Sold</li>
-                                        <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
@@ -628,8 +628,8 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
+                                        <li>Red | Long Hair</li>
                                         <li>Available</li>
-                                        <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
@@ -652,8 +652,8 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Male </li>
+                                        <li>Red | Long Hair</li>
                                         <li>Available</li>
-                                        <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
@@ -673,8 +673,8 @@
                                 <div class="card__details">
                                     <ul>
                                         <li>Male</li>
+                                        <li>Cream | Long Hair</li>
                                         <li>Sold</li>
-                                        <li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
