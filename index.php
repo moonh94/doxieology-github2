@@ -629,7 +629,7 @@
                                     <ul>
                                         <li>Female </li>
                                         <li>Red | Long Hair</li>
-                                        <li>Available</li>
+                                        <li>Sold</li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
@@ -653,7 +653,7 @@
                                     <ul>
                                         <li>Male </li>
                                         <li>Red | Long Hair</li>
-                                        <li>Available</li>
+                                        <li>Sold</li>
                                             <button class="flipBtn" onclick="flipCard()">
                                                 Click For More!
                                                 <i class="fas fa-angle-double-right"></i>
@@ -901,29 +901,12 @@
         
                 <div class="row">
                     <div class="col-sm-12 expectingHB">
-                        <div class="HopeB">
-                        <img src="assets/img/honey'sLitter-1.jpg" alt="honey's litter" class="expectingPicHonB">
-                        <!-- <img src="assets/img/honeyprof.jpg" alt="honey" class="expectingPicHonB">
-                        <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHonB"> -->
-                    </div>
                     <br>
                         <p class="expectingDescription">
-                        Honey and Beau's puppies have arrived! 
-                        <br>
-                        We welcome three reds- two girls and a boy, and 
-                        two creams- a boy and a girl </p>
+                        We are expecting puppies in November 2021! </p>
                     </div>
                 </div>  
-                <div class="row">
-                    <div class="col-sm-12 expectingHB">
-                        <div class="HonB">
-                        <img src="assets/img/hopeProf.jpg" alt="honey" class="expectingPicHopeB">
-                        <img src="assets/img/beau4.jpg" alt="honey" class="expectingPicHopeB">
-                    </div>
-                    <br>
-                        <p class="expectingDescription">Hope and Beau are expecting puppies May 2021! </p>
-                    </div>
-                </div>  
+            
               
             </section>
 
