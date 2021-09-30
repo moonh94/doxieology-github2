@@ -903,7 +903,7 @@
                     <div class="col-sm-12 expectingHB">
                     <br>
                         <p class="expectingDescription">
-                        We are expecting puppies in November 2021! </p>
+                        We are expecting three litters in November 2021 from Beau, Pearl, Honey, and Hope. </p>
                     </div>
                 </div>  
             
