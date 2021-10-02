@@ -247,7 +247,21 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
-                
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <br>
+                        <div class="reviewContent">
+                        <p class="reviewPar">    
+                        “Roxie was fabulous with almost 20 neighbors including children.  She did great with my granddaughters tonight.  Such a doll.    Loves her walks, too. 
+                         Can’t thank you enough for providing us extra time before picking her up and being such a great breeder!”</p>
+                        <p class="reviewAuthor">-Patty Ostrowski </p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
+                  
                     </div>
                 </div>
 
