@@ -252,8 +252,9 @@
                         <br>
                         <div class="reviewContent">
                         <p class="reviewPar">    
-                        “Roxie was fabulous with almost 20 neighbors including children.  She did great with my granddaughters tonight.  Such a doll.    Loves her walks, too. 
-                         Can’t thank you enough for providing us extra time before picking her up and being such a great breeder!”</p>
+                        “I couldn’t have asked for a more perfect experience with Denise McAfee.  Our Roxie is so healthy with a loving personality.  
+                        Communication was exceptional from start to finish and we were spoiled with all the goodies in our gift bag.  We couldn’t be happier with the transaction. 
+                         She went the extra mile for us with delivery and I highly recommend her to anyone who is interested in an exceptional pet.”</p>
                         <p class="reviewAuthor">-Patty Ostrowski </p>
                         </div>
                        
