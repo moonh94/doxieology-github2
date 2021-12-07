@@ -592,7 +592,7 @@
                         <div>
                         <ul>
                             <li>Meet Honey and Beau's puppies</li>
-                            <li>2 Male | Longhair | Cream </li>
+                            <li>2 Male | Long Hair | Cream </li>
                             <li>Available </li>
                             </ul>
                         </div>
@@ -609,8 +609,8 @@
                         <div>
                         <ul>
                             <li>Meet Hope and Beau's puppies</li>
-                            <li>Top 2 Female | Longhair | Cream </li>
-                            <li>Bottom 2 Male | Longhair | Cream </li>
+                            <li>Top 2 Female | Long Hair | Cream </li>
+                            <li>Bottom 2 Male | Long Hair | Cream </li>
                             <li>Available </li>
                             </ul>
                         </div>
@@ -626,8 +626,8 @@
                         <div>
                             <ul>
                             <li>Meet Pearl and Beau's puppies</li>
-                            <li>Top 2 Female | Longhair | Cream </li>
-                            <li>Bottom 2 Male | Longhair | Cream </li>
+                            <li>Top 2 Female | Long Hair | Cream </li>
+                            <li>Bottom 2 Male | Long Hair | Cream </li>
                             <li>Available </li>
                             </ul>
                         </div>
