@@ -589,7 +589,7 @@
                         <div class="litterParents">
                         <img src="assets/img/honeydec2021.jpg" alt="honey's litter" class="expectingPic1">
                         <br>
-                        <div>
+                        <div class="status">
                         <ul>
                             <li>Meet Honey and Beau's puppies</li>
                             <li>In Order From Left to Right: </li>
@@ -607,7 +607,7 @@
                         <div class="litterParents">
                         <img src="assets/img/hopesdec2021.jpg" alt="honey's litter" class="expectingPic1">
                         <br>
-                        <div>
+                        <div class="status">
                         <ul>
                             <li>Meet Hope and Beau's puppies</li>
                             <li>In Order From Top To Bottom: </li>
@@ -626,7 +626,7 @@
                         <div class="litterParents">
                         <img src="assets/img/pearldec2021.jpg" alt="honey's litter" class="expectingPic1">
                         <br>
-                        <div>
+                        <div class="status">
                             <ul>
                             <li>Meet Pearl and Beau's puppies</li>
                             <li>In Order From Top To Bottom: </li>
