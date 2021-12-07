@@ -592,7 +592,7 @@
                         <div>
                         <ul>
                             <li>Meet Honey and Beau's puppies</li>
-                            <li>In Order From Top To Bottom: </li>
+                            <li>In Order From Left to Right: </li>
                             <li>Male | Long Hair | Cream | Available </li>
                             <li>Male | Long Hair | Cream | Available </li>
                             </ul>
