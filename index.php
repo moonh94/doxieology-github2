@@ -592,8 +592,9 @@
                         <div>
                         <ul>
                             <li>Meet Honey and Beau's puppies</li>
-                            <li>2 Male | Long Hair | Cream </li>
-                            <li>Available </li>
+                            <li>In Order From Top To Bottom: </li>
+                            <li>Male | Long Hair | Cream | Available </li>
+                            <li>Male | Long Hair | Cream | Available </li>
                             </ul>
                         </div>
                         
@@ -609,11 +610,11 @@
                         <div>
                         <ul>
                             <li>Meet Hope and Beau's puppies</li>
-                            li>Female | Long Hair | Cream | Reserved</li>
+                            <li>In Order From Top To Bottom: </li>
+                            <li>Female | Long Hair | Cream | Reserved</li>
                             <li>Female | Long Hair | Cream | Reserved</li>
                             <li>Male | Long Hair | Cream | Available </li>
                             <li>Male | Long Hair | Cream | Available </li>
-                            <li>Available </li>
                             </ul>
                         </div>
                         </div>
@@ -628,6 +629,7 @@
                         <div>
                             <ul>
                             <li>Meet Pearl and Beau's puppies</li>
+                            <li>In Order From Top To Bottom: </li>
                             <li>Female | Long Hair | Cream | Available</li>
                             <li>Female | Long Hair | Cream | Reserved</li>
                             <li>Male | Long Hair | Cream | Available </li>
