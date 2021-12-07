@@ -583,6 +583,57 @@
                 </div>
             </section>
         </div>
+        <section class="section pups" id="availPups">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="litterParents">
+                        <img src="assets/img/honeydec2021.jpg" alt="honey's litter" class="expectingPic1">
+                        <br>
+                        <div>
+                        <ul>
+                            <li>Meet Honey and Beau's puppies</li>
+                            <li>2 Male | Longhair | Cream </li>
+                            <li>Available </li>
+                            </ul>
+                        </div>
+                        
+                        </div>
+                    </div>
+                </div>
+                <section class="section pups" id="availPups">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="litterParents">
+                        <img src="assets/img/hopesdec2021.jpg" alt="honey's litter" class="expectingPic1">
+                        <br>
+                        <div>
+                        <ul>
+                            <li>Meet Hope and Beau's puppies</li>
+                            <li>Top 2 Female | Longhair | Cream </li>
+                            <li>Bottom 2 Male | Longhair | Cream </li>
+                            <li>Available </li>
+                            </ul>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <section class="section pups" id="availPups">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="litterParents">
+                        <img src="assets/img/pearldec2021.jpg" alt="honey's litter" class="expectingPic1">
+                        <br>
+                        <div>
+                            <ul>
+                            <li>Meet Pearl and Beau's puppies</li>
+                            <li>Top 2 Female | Longhair | Cream </li>
+                            <li>Bottom 2 Male | Longhair | Cream </li>
+                            <li>Available </li>
+                            </ul>
+                        </div>
+                        </div>
+                    </div>
+                </div>
             <section class="section pups" id="availPups">
                 <div class="row">
                     <div class="col-sm-12">
@@ -908,7 +959,7 @@
 
         <div class="parallaxBody parallax5"></div>
 
-        <div class="section" id="upcoming">
+        <!-- <div class="section" id="upcoming">
             <h3 class="title">Upcoming Litters</h3>
 
 
@@ -927,7 +978,7 @@
 
         </div>
 
-        <div class="parallaxBody parallax6"></div>
+        <div class="parallaxBody parallax6"></div> -->
 
 
         <div class="section" id="contact">
