@@ -605,7 +605,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="litterParents">
-                        <img src="assets/img/hopesdec2021.jpg" alt="honey's litter" class="expectingPic1">
+                        <img src="assets/img/hopesdec2021.jpg" alt="hope's litter" class="expectingPic1">
                         <br>
                         <div class="status">
                         <ul>
@@ -624,7 +624,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="litterParents">
-                        <img src="assets/img/pearldec2021.jpg" alt="honey's litter" class="expectingPic1">
+                        <img src="assets/img/pearldec2021.jpg" alt="pearl's litter" class="expectingPic1">
                         <br>
                         <div class="status">
                             <ul>
