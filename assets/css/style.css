@@ -1133,7 +1133,7 @@ section {
 .expectingPic1,
 .expectingPic2,
 .dec2021 {
-    width: 300px;
+    width: 250px;
     height: auto;
     box-shadow: 0 .2rem 1rem rgba(0, 0, 0, 0.15);
 }
