@@ -768,7 +768,7 @@
                     <div class="col-sm-4">
                         <div class="card" id="flip-card">
                             <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picturedec2021p1"></div>
+                                <div class="card__picture2 card__pictureHoney-1"></div>
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
