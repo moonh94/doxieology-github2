@@ -334,6 +334,12 @@ nav.black .nav-link:hover{
     margin-bottom: 5px;
    
 }
+.dec2021 {
+    width: 500px;
+    height: auto;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+    margin-bottom: 5px;
+}
 
 footer {
     display: block;
@@ -671,6 +677,43 @@ footer {
 .card__side--back2-8{
     background-image:url(../img/male-back.jpg);
 }
+
+.card__dec2021p1 {
+    background-image: url(../img/dec2021p1.jpg);
+}
+.card__dec2021p2 {
+    background-image: url(../img/dec2021p2.jpg);
+}
+.card__dec2021p3 {
+    background-image: url(../img/dec2021p3.jpg);
+}
+.card__dec2021p4 {
+    background-image: url(../img/dec2021p4.jpg);
+}
+.card__dec2021p5 {
+    background-image: url(../img/dec2021p5.jpg);
+}
+.card__dec2021p6 {
+    background-image: url(../img/dec2021p6.jpg);
+
+}
+.card__picturedec2021 {
+    background-size:auto;
+    height: 30rem;
+    background-blend-mode: screen;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px; 
+    background-repeat: no-repeat;
+      background-size: cover;
+ }
+ .card__detailsdec2021 {
+    padding-top: 5px;
+    padding-bottom: 0;
+    font-size: 14px;
+    text-align:center;
+    backface-visibility: hidden;
+ }
+
 .card__heading {
         font-size: 1.3rem;
         font-weight: 400rem;
@@ -1088,8 +1131,9 @@ section {
 }
 
 .expectingPic1,
-.expectingPic2 {
-    width: 250px;
+.expectingPic2,
+.dec2021 {
+    width: 300px;
     height: auto;
     box-shadow: 0 .2rem 1rem rgba(0, 0, 0, 0.15);
 }

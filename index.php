@@ -573,6 +573,7 @@
 
         <div class="parallaxBody parallax4"></div>
 
+
         <div class="section" id="availPups">
             <h3 class="title">puppies</h3>
             <section class="stayTuned">
@@ -583,7 +584,123 @@
                 </div>
             </section>
         </div>
+
         <section class="section pups" id="availPups">
+            <h5>Meet the puppies from Honey, Hope, and Pearl.</h5>
+            <br>
+                <div class="row">
+                    <div class="col-sm-1"> </div>
+                    <div class="col-sm-5">
+                        <div class="litterParents">
+                            <img src="assets/img/dec2021group1.jpg" alt="dec2021pups" class="dec2021">
+                        </div>
+                    </div>
+                    <div class="col-sm-5">
+                        <div class="litterParents">
+                            <img src="assets/img/dec2021group2.jpg" alt="dec2021pups" class="dec2021">
+                        </div>
+                    </div>
+                    <div class="col-sm-1"> </div>
+                </div>
+        </section>
+
+        <section class="section pups" id="availPups">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picturedec2021 card__dec2021p1"></div>
+                                <div class="card__detailsdec2021">
+                                    <ul>
+                                        <li>Male </li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Reserved</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picturedec2021 card__dec2021p2"></div>
+                                <div class="card__detailsdec2021">
+                                    <ul>
+                                        <li>Male </li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picturedec2021 card__dec2021p3"></div>
+                                <div class="card__detailsdec2021">
+                                    <ul>
+                                        <li>Male </li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picturedec2021 card__dec2021p4"></div>
+                                <div class="card__details">
+                                    <ul>
+                                        <li>Male </li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picturedec2021 card__dec2021p5"></div>
+                                <div class="card__detailsdec2021">
+                                    <ul>
+                                        <li>Male </li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Reserved</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card" id="flip-card">
+                            <div class="card__side card__side--front flip-card-front">
+                                <div class="card__picturedec2021 card__dec2021p6"></div>
+                                <div class="card__detailsdec2021">
+                                    <ul>
+                                        <li>Male </li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+</section>
+    
+
+        <!-- <section class="section pups" id="availPups">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="litterParents">
@@ -619,8 +736,8 @@
                         </div>
                         </div>
                     </div>
-                </div>
-                <section class="section pups" id="availPups">
+                </div> -->
+                <!-- <section class="section pups" id="availPups">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="litterParents">
@@ -630,7 +747,7 @@
                             <ul>
                             <li>Meet Pearl and Beau's puppies</li>
                             <li>In Order From Top To Bottom: </li>
-                            <li>Female | Long Hair | Cream | Available</li>
+                            <li>Female | Long Hair | Cream | Reserved</li>
                             <li>Female | Long Hair | Cream | Reserved</li>
                             <li>Male | Long Hair | Cream | Available </li>
                             <li>Male | Long Hair | Cream | Available </li>
@@ -639,6 +756,7 @@
                         </div>
                     </div>
                 </div>
+                </section> -->
             <section class="section pups" id="availPups">
                 <div class="row">
                     <div class="col-sm-12">
