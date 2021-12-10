@@ -680,26 +680,32 @@ footer {
 
 .card__dec2021p1 {
     background-image: url(../img/dec2021p1.jpg);
+    height: 70%;
 }
 .card__dec2021p2 {
     background-image: url(../img/dec2021p2.jpg);
+    height: 70%;
 }
 .card__dec2021p3 {
     background-image: url(../img/dec2021p3.jpg);
+    height: 70%;
 }
 .card__dec2021p4 {
     background-image: url(../img/dec2021p4.jpg);
+    height: 70%;
 }
 .card__dec2021p5 {
     background-image: url(../img/dec2021p5.jpg);
+    height: 70%;
 }
 .card__dec2021p6 {
     background-image: url(../img/dec2021p6.jpg);
+    height: 70%;
 
 }
 .card__picturedec2021 {
     background-size:contain;
-    height: 28rem;
+    height: rem;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; 
     background-repeat: no-repeat;
