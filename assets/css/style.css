@@ -696,11 +696,11 @@ footer {
 }
 .card__dec2021p5{
     background-image:url(../img/dec2021p5.jpg);
-    height: 70%;
+    background-size: contain;
 }
 .card__dec2021p6{
     background-image:url(../img/dec2021p6.jpg);
-    height: 70%;
+    background-size: contain;
 
 }
 .card__picturedec2021 {
