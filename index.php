@@ -602,9 +602,6 @@
                     </div>
                     <div class="col-sm-1"> </div>
                 </div>
-        </section>
-
-        <section class="section pups" id="availPups">
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="card" id="flip-card">
@@ -697,7 +694,7 @@
                         </div>
                     </div>
                 </div>
-</section>
+        </section>
     
 
         <!-- <section class="section pups" id="availPups">
@@ -792,7 +789,7 @@
                     <div class="col-sm-4">
                         <div class="card" id="flip-card">
                             <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__dec2021p2"></div>
+                                <div class="card__picture2 card__pictureHoney-2"></div>
                                 <div class="card__details">
                                     <ul>
                                         <li>Female </li>
