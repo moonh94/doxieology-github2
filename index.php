@@ -679,7 +679,7 @@
                         </div>
                     </div>
                     <div class="col-sm-4">
-                        <div class="card" id="flip-card">
+                    <div class="card" id="flip-card">
                             <div class="card__side card__side--front flip-card-front">
                                 <div class="card__picture2 card__dec2021p6"></div>
                                 <div class="card__details">
