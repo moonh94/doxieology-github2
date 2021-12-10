@@ -698,7 +698,7 @@ footer {
 
 }
 .card__picturedec2021 {
-    background-size:auto;
+    background-size:contain;
     height: 30rem;
     background-blend-mode: screen;
     border-top-left-radius: 3px;
