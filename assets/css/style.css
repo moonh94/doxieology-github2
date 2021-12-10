@@ -695,17 +695,16 @@ footer {
     height: 70%;
 }
 .card__dec2021p5{
-    background-image:url(../img/dec2021p5.jpg);
-    background-size: contain;
+    background-image:url(../img/honey4-1.jpg);
+    height:70%;
 }
 .card__dec2021p6{
     background-image:url(../img/dec2021p6.jpg);
-    background-size: contain;
+    height:70%;
 
 }
 .card__picturedec2021 {
     background-size:contain;
-    height: rem;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; 
     background-repeat: no-repeat;
