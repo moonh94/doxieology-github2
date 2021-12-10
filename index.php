@@ -592,12 +592,12 @@
                     <div class="col-sm-1"> </div>
                     <div class="col-sm-5">
                         <div class="litterParents">
-                            <img src="assets/img/dec2021group1.jpg" alt="dec2021pups" class="dec2021">
+                            <img src="assets/img/dec2021group1.jpg" alt="dec2021pups" class="expectingPic1">
                         </div>
                     </div>
                     <div class="col-sm-5">
                         <div class="litterParents">
-                            <img src="assets/img/dec2021group2.jpg" alt="dec2021pups" class="dec2021">
+                            <img src="assets/img/dec2021group2.jpg" alt="dec2021pups" class="expectingPic1">
                         </div>
                     </div>
                     <div class="col-sm-1"> </div>
