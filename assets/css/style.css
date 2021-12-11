@@ -1163,6 +1163,7 @@ section {
     object-fit: cover;
 }
 .decPups2021{
+    display:inline-block;
     width:350px;
     height:auto;
     object-fit: cover;
