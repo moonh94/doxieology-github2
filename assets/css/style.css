@@ -681,32 +681,6 @@ footer {
     background-image:url(../img/male-back.jpg);
 }
 
-.card__picturedec2021p1{
-    background-image:url(../img/dec2021p1.jpg);
-    background-size: cover;
-}
-.card__picturedec2021p2{
-    background-image:url(../img/dec2021p2.jpg);
-    height: 70%;
-}
-.card__picturedec2021p3{
-    background-image:url(../img/dec2021p3.jpg);
-    height: 70%;
-}
-.card__picturedec2021p4{
-    background-image:url(../img/dec2021p4.jpg);
-    height: 70%;
-}
-.card__picturedec2021p5{
-    background-image:url(../img/dec2021p5.jpg);
-    height:70%;
-}
-.card__picturedec2021p6{
-    background-image:url(../img/dec2021p6.jpg);
-    height:70%;
-
-}
-
 
 .card__heading {
         font-size: 1.3rem;
@@ -731,7 +705,13 @@ footer {
 li:not(:last-child) {
         padding-bottom: 5px;
     }
-
+.decPupsDetails ul{
+    list-style-type: none;
+}
+.decPups2021{
+    width:350px;
+    height:fit-content;
+}
 
 .animation {
     -webkit-transition: all 0.3s ease;

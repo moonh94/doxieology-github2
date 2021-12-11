@@ -656,183 +656,87 @@
                     </div>
                     <div class="col-sm-4"> 
                         <div class="litterParents">
-                        <img src="assets/img/dec2021group2.jpg" alt="honey's litter" class="expectingPic1">
+                        <img src="assets/img/dec2021group2-2.jpg" alt="honey's litter" class="expectingPic1">
                         </div>
                     </div>
                     <div class="col-sm-2"> </div>
             </div>  
-        
+            <br>
+            <br>
             <div class="row">
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="decPups2021">
                         <br>
+                        <div class="decPupsDetails">
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Reserved</li>
                                     </ul>
+                             </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p2.jpg" alt="pup1" class="expectingPic1">
+                        <img src="assets/img/dec2021p2-2.jpg" alt="pup2" class="decPups2021">
                         <br>
+                        <div class="decPupsDetails">
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Available</li>
                                     </ul>
+                             </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p3.jpg" alt="pup1" class="expectingPic1">
+                        <img src="assets/img/dec2021p3-2.jpg" alt="pup3" class="decPups2021">
                         <br>
+                        <div class="decPupsDetails">
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Available</li>
                                     </ul>
+                             </div>
                     </div>
                  </div>
             <div class="row">
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <img src="assets/img/dec2021p4-2.jpg" alt="pup4" class="decPups2021">
                         <br>
+                        <div class="decPupsDetails">
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                             </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="assets/img/dec2021p5-2.jpg" alt="pup5" class="decPups2021">
+                        <br>
+                        <div class="decPupsDetails">
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Reserved</li>
                                     </ul>
+                             </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <img src="assets/img/dec2021p6.jpg" alt="pup6" class="decPups2021">
                         <br>
+                            <div class="decPupsDetails">
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Available</li>
                                     </ul>
-                    </div>
-                    <div class="col-sm-4">
-                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
-                        <br>
-                                    <ul>
-                                        <li>Male</li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Available</li>
-                                    </ul>
+                             </div>
                     </div>
                  </div>
-
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picturePup1"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male </li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Available</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-                            </div>
-                            <div class="card__side card__side--back card__pictureHoney-3"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-3"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male </li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Sold</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-3"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-1"></div>
-                                <div class="card__details">
-                                    <ul>
-
-                                        <li>Male</li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Available</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-1"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-2"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male </li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Reserved </li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-2"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-3"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male </li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Available</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-3"></div>
-                        </div>
-                    </div>
-                </div>
-
+                <br>
+                <br>
+    
+            
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="litterParents">
