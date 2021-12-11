@@ -676,7 +676,7 @@
                              </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p2-2.jpg" alt="pup2" class="decPups2021">
+                        <img src="assets/img/dec2021p2-2.jpg" alt="pup2" class="expectingPic1">
                         <br>
                         <div class="decPupsDetails">
                                     <ul>
@@ -687,7 +687,7 @@
                              </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p3-2.jpg" alt="pup3" class="decPups2021">
+                        <img src="assets/img/dec2021p3-2.jpg" alt="pup3" class="expectingPic1">
                         <br>
                         <div class="decPupsDetails">
                                     <ul>
@@ -700,7 +700,7 @@
             </div>
             <div class="row">
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p4-2.jpg" alt="pup4" class="decPups2021">
+                        <img src="assets/img/dec2021p4-2.jpg" alt="pup4" class="expectingPic1">
                         <br>
                         <div class="decPupsDetails">
                                     <ul>
@@ -711,7 +711,7 @@
                              </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p5-2.jpg" alt="pup5" class="decPups2021">
+                        <img src="assets/img/dec2021p5-2.jpg" alt="pup5" class="expectingPic1">
                         <br>
                         <div class="decPupsDetails">
                                     <ul>
@@ -722,7 +722,7 @@
                              </div>
                     </div>
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p6.jpg" alt="pup6" class="decPups2021">
+                        <img src="assets/img/dec2021p6.jpg" alt="pup6" class="expectingPic1">
                         <br>
                             <div class="decPupsDetails">
                                     <ul>
