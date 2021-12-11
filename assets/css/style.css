@@ -1112,6 +1112,11 @@ section {
     height: auto;
     box-shadow: 0 .2rem 1rem rgba(0, 0, 0, 0.15);
 }
+.decPups2021 {
+    width: 350px;
+    height: auto;
+    box-shadow: 0 .2rem 1rem rgba(0, 0, 0, 0.15); 
+}
 .dec2021{
     width: 300px;
     height: auto;
@@ -1164,14 +1169,6 @@ section {
     height: auto;
     object-fit: cover;
 }
-.decPups2021{
-    display:inline-block;
-    width:350px;
-    height:auto;
-    object-fit: cover;
-}
-
-
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
