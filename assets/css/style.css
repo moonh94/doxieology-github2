@@ -665,7 +665,7 @@ footer {
     height: 70%;
 }
 .card__picturePup1{
-    background-image: url(../img/pup1.jpg);
+    background-image: url(../img/pu);
 }
 
 .card__side--back2-5{
@@ -683,7 +683,7 @@ footer {
 
 .card__picturedec2021p1{
     background-image:url(../img/dec2021p1.jpg);
-    height: 70%;
+    background-size: cover;
 }
 .card__picturedec2021p2{
     background-image:url(../img/dec2021p2.jpg);
@@ -1194,6 +1194,10 @@ section {
     width: 140px;
     height: auto;
     object-fit: cover;
+}
+.card__picturedec2021p1{
+    background-image:url(../img/dec2021p1.jpg);
+    background-size: cover;
 }
 
 }

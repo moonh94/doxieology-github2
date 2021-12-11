@@ -666,7 +666,7 @@
                     <div class="col-sm-4">
                         <div class="card" id="flip-card">
                             <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picturePup1"></div>
+                                <div class="card__picture2 card__picturedec2021p1"></div>
                                 <div class="card__details">
                                     <ul>
                                         <li>Male</li>
@@ -680,7 +680,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--backHoney-2"></div>
+                            <div class="card__side card__side--back card__picture2--1"></div>
                         </div>
                     </div>
                     <div class="col-sm-4">
@@ -702,7 +702,7 @@
                                 </div>
 
                             </div>
-                            <div class="card__side card__side--back card__side--backHoney-2"></div>
+                            <div class="card__side card__side--back card__pictureHoney-3"></div>
                         </div>
                     </div>
                     <div class="col-sm-4">
