@@ -693,7 +693,7 @@
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
-                                        <li>Available</li>
+                                        <li>Reserved</li>
                                     </ul>
                              </div>
                     </div>
@@ -706,7 +706,7 @@
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
-                                        <li>Available</li>
+                                        <li>Reserved</li>
                                     </ul>
                              </div>
                     </div>
