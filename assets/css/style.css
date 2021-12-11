@@ -710,7 +710,7 @@ li:not(:last-child) {
 }
 .decPups2021{
     width:350px;
-    height:fit-content;
+    height:auto;
 }
 
 .animation {
@@ -1164,7 +1164,7 @@ section {
 }
 .decPups2021{
     width:350px;
-    height:fit-content;
+    height:auto;
 }
 
 
@@ -1287,8 +1287,7 @@ section {
     font-size: 16px;
 }
 .contactTextHeading {
-    font-size: 18px
-    ;
+    font-size: 18px;
 }
 .footer {
     display: block;
@@ -1301,7 +1300,7 @@ section {
 }
 .decPups2021{
     width:350px;
-    height:fit-content;
+    height:auto;
 }
 
 
