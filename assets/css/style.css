@@ -706,20 +706,7 @@ footer {
     height:70%;
 
 }
-.card__picturedec2021 {
-    background-size:contain;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px; 
-    background-repeat: no-repeat;
-      background-size: cover;
- }
- .card__detailsdec2021 {
-    padding-top: 5px;
-    padding-bottom: 0;
-    font-size: 14px;
-    text-align:center;
-    backface-visibility: hidden;
- }
+
 
 .card__heading {
         font-size: 1.3rem;

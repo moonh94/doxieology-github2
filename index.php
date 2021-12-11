@@ -664,25 +664,63 @@
         
             <div class="row">
                     <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picturedec2021p1"></div>
-                                <div class="card__details">
+                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <br>
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Reserved</li>
-                                        <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
                                     </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__picture2--1"></div>
-                        </div>
                     </div>
+                    <div class="col-sm-4">
+                        <img src="assets/img/dec2021p2.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="assets/img/dec2021p3.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                    </div>
+                 </div>
+            <div class="row">
+                    <div class="col-sm-4">
+                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Reserved</li>
+                                    </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Long Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                    </div>
+                 </div>
+
                     <div class="col-sm-4">
                         <div class="card" id="flip-card">
                             <div class="card__side card__side--front flip-card-front">
