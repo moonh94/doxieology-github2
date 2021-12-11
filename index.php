@@ -665,7 +665,7 @@
             <br>
             <div class="row">
                     <div class="col-sm-4">
-                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="decPups2021">
+                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
                         <br>
                         <div class="decPupsDetails">
                                     <ul>
@@ -697,7 +697,7 @@
                                     </ul>
                              </div>
                     </div>
-                 </div>
+            </div>
             <div class="row">
                     <div class="col-sm-4">
                         <img src="assets/img/dec2021p4-2.jpg" alt="pup4" class="decPups2021">
