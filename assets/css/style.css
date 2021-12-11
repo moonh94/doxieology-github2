@@ -664,6 +664,9 @@ footer {
     background-image: url(../img/male-front.jpg);
     height: 70%;
 }
+.card__picturePup1{
+    background-image: url(../img/pup1.jpg);
+}
 
 .card__side--back2-5{
     background-image:url(../img/pearlpupf1-2.jpg);
