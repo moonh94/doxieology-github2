@@ -1165,6 +1165,7 @@ section {
 .decPups2021{
     width:350px;
     height:auto;
+    object-fit: cover;
 }
 
 
