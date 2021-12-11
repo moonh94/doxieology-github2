@@ -675,6 +675,7 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="card__side card__side--back card__side--backHoney-2"></div>
                         </div>
                     </div>
                     <div class="col-sm-4">
