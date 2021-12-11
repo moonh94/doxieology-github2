@@ -672,6 +672,11 @@
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
                                         <li>Reserved</li>
+                                        <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
