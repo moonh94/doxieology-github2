@@ -365,7 +365,13 @@ footer {
     font-size: 1rem;
 }
 
-.paypalLogo {
+.paypalLogo{
+    margin: 0;
+    padding: 0;
+    width: 100px; 
+    height: auto; 
+}
+.venmoLogo{
     margin: 0;
     padding: 0;
     width: 100px; 
