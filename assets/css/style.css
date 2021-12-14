@@ -378,6 +378,11 @@ footer {
     height: auto; 
 }
 
+.qr {
+    width:150px;
+    height: auto;
+}
+
 .footerStuff {
     display: inline;
 }

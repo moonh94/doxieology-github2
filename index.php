@@ -1162,6 +1162,8 @@
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="499HBPFFHUZDN">
                     <input type="image" class="venmoLogo" src="./assets/img/venmoIconBig.png" name="submit" alt="Venmo">
+                    <br>
+                    <img src= "./assets/img/qrcode.png" alt="venmo QR Code" class="qr">
                     
                 </form>
    
