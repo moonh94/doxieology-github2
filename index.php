@@ -663,6 +663,19 @@
             </div>  
             <br>
             <br>
+            <div class="row"> 
+                <div class="col-sm">    
+                        <img src="assets/img/shorthair.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                        <div class="decPupsDetails">
+                                    <ul>
+                                        <li>Male</li>
+                                        <li>Cream | Short Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                             </div>
+                    </div>
+</div>
             <div class="row">
                     <div class="col-sm-4">
                         <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
@@ -682,7 +695,7 @@
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Long Hair</li>
-                                        <li>Available</li>
+                                        <li>Reserved</li>
                                     </ul>
                              </div>
                     </div>
