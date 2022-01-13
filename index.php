@@ -651,22 +651,34 @@
                     <div class="col-sm-2"> </div>
                     <div class="col-sm-4"> 
                         <div class="litterParents">
-                        <img src="assets/img/dec2021group1.jpg" alt="honey's litter" class="expectingPic1">
+                        <img src="assets/img/dec2021group1.jpg" alt="honey's litter" class="expectingPic2">
                         </div>
                     </div>
                     <div class="col-sm-4"> 
                         <div class="litterParents">
-                        <img src="assets/img/dec2021group2-2.jpg" alt="honey's litter" class="expectingPic1">
+                        <img src="assets/img/dec2021group2-2.jpg" alt="honey's litter" class="expectingPic2">
                         </div>
                     </div>
                     <div class="col-sm-2"> </div>
             </div>  
             <br>
             <br>
-           
             <div class="row">
-                    <div class="col-sm-4">
-                        <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-4">
+                <img src="assets/img/femalepup.jpg" alt="pup1" class="expectingPic1">
+                        <br>
+                        <div class="decPupsDetails">
+                                    <ul>
+                                        <li>Female</li>
+                                        <li>Cream | Short Hair</li>
+                                        <li>Available</li>
+                                    </ul>
+                             </div>
+                </div>
+                
+            <div class="col-sm-4">
+                <img src="assets/img/dec2021p1.jpg" alt="pup1" class="expectingPic1">
                         <br>
                         <div class="decPupsDetails">
                                     <ul>
@@ -675,7 +687,12 @@
                                         <li>Reserved</li>
                                     </ul>
                              </div>
-                    </div>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+           
+         <div class="row">
+            <div class="col-sm-2"></div>
                     <div class="col-sm-4">
                     <img src="assets/img/shorthair.jpg" alt="pup1" class="expectingPic1">
                         <br>
@@ -683,8 +700,9 @@
                                     <ul>
                                         <li>Male</li>
                                         <li>Cream | Short Hair</li>
-                                        <li>Available</li>
-                             </div>
+                                        <li>Reserved</li>
+                                    </ul>
+                        </div>
                     </div>
                     <div class="col-sm-4">
                         <img src="assets/img/dec2021p3-2.jpg" alt="pup3" class="expectingPic1">
@@ -697,7 +715,8 @@
                                     </ul>
                              </div>
                     </div>
-            </div>
+                    <div class="col-sm-2"></div>
+        </div>
             <div class="row">
                     <div class="col-sm-4">
                         <img src="assets/img/dec2021p4-2.jpg" alt="pup4" class="expectingPic1">
