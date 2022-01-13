@@ -672,7 +672,7 @@
                                     <ul>
                                         <li>Female</li>
                                         <li>Cream | Short Hair</li>
-                                        <li>Available</li>
+                                        <li>Reserved</li>
                                     </ul>
                              </div>
                 </div>
