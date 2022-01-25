@@ -262,6 +262,43 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <br>
+                        <div class="reviewContent">
+                        <img class="reviewImg" src="./assets/img/reviewGianna.jpg"> </img>
+                        <p class="reviewPar">    
+                        Denise at Doxie-Ology was very professional and knowledgeable during the adoption process.
+                        She kept me updated from birth to pickup with pictures and health notes. 
+                        After pickup, she would periodically check in to see how the puppy was acclimating to her new home.
+                        Needless to say I was thrilled with the entire process and have a happy and healthy puppy!”</p>
+                        <p class="reviewAuthor">-Gianna </p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <br>
+                        <div class="reviewContent">
+                        <img class="reviewImg" src="./assets/img/reviewDana.jpg"> </img>
+                        <p class="reviewPar">    
+                        I would like to say my experience with Denise and Doxieolgy was outstanding.
+                        From the first time I contacted her until the time I picked up Biscuit, Denise was in constant communication with me.   
+                        I received weekly updates from the very start. And when I became anxious Denise was always willing to send me updates. I must have drove her nuts.     
+                        When I picked Biscuit up, Denise provided me with a great care package and vet visits.  
+                        I took Biscuit to my vet who was very impressed with his records and with him.
+                        <br>
+                        If looking for a second dachshund (actually my third) I will definitely give them a call back!”</p>
+                        <p class="reviewAuthor">-Gianna </p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
                   
                     </div>
                 </div>
