@@ -299,6 +299,25 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <br>
+                        <div class="reviewContent">
+                        <img class="reviewImg" src="./assets/img/reviewHeather.jpg"> </img>
+                        <p class="reviewPar">    
+                        Denise and Dave at Doxie-ology have the most beautiful, high quality dachshund pups I’ve encountered. 
+                        It’s very obvious they are serious about delivering what they promise. 
+                        Communication is superb and they went out of their way to make delivery easy.  
+                        I bought two English Cream litter mates and they are exquisite - from their looks to their personalities! 
+                        The dogs are well-socialized and there is no doubt they come from a loving, nurturing environment.  
+                        I will definitely be working with them again in the future and highly recommend!
+                        <p class="reviewAuthor">-Heather </p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
                   
                     </div>
                 </div>
