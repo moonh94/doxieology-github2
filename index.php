@@ -292,7 +292,7 @@
                         I took Biscuit to my vet who was very impressed with his records and with him.
                         <br>
                         If looking for a second dachshund (actually my third) I will definitely give them a call back!”</p>
-                        <p class="reviewAuthor">-Gianna </p>
+                        <p class="reviewAuthor">-Dana </p>
                         </div>
                        
                         <br>
