@@ -318,6 +318,26 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <br>
+                        <div class="reviewContent">
+                        <p class="reviewPar">    
+                        Just a note to let you know how happy Fig and I are with each other. 
+                        He’s the best pup I could have hoped for! His vet visit was great, 
+                        he’s loving his crate at night and snuggle bed during nap time. 
+                        He plays energetically and eats well. 
+                        Thank you so much for this puppy’s great start in life and for saving him for me! 
+
+                        <p class="reviewAuthor">-Sherrie</p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
+
+                   
                   
                     </div>
                 </div>
