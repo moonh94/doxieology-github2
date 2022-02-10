@@ -271,7 +271,7 @@
                         Denise at Doxie-Ology was very professional and knowledgeable during the adoption process.
                         She kept me updated from birth to pickup with pictures and health notes. 
                         After pickup, she would periodically check in to see how the puppy was acclimating to her new home.
-                        Needless to say I was thrilled with the entire process and have a happy and healthy puppy!”</p>
+                        Needless to say I was thrilled with the entire process and have a happy and healthy puppy!</p>
                         <p class="reviewAuthor">-Gianna </p>
                         </div>
                        
@@ -291,7 +291,7 @@
                         When I picked Biscuit up, Denise provided me with a great care package and vet visits.  
                         I took Biscuit to my vet who was very impressed with his records and with him.
                         <br>
-                        If looking for a second dachshund (actually my third) I will definitely give them a call back!”</p>
+                        If looking for a second dachshund (actually my third) I will definitely give them a call back!</p>
                         <p class="reviewAuthor">-Dana </p>
                         </div>
                        
