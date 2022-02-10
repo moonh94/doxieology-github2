@@ -235,11 +235,11 @@
                         <div class="reviewContent">
                         <img class="reviewImg" src="./assets/img/review3Pic.jpg"> </img>
                         <p class="reviewPar">    
-                            “Thank you so very much💕 https://www.doxie-ology.com.
+                            Thank you so very much💕 https://www.doxie-ology.com.
                             Denise and Dave McAfee who specialize in cream and red Dachys, are the way to go when you're looking for an amazing new addition to your home and family! 
                             Ms. Jazzy has come all the way from South Carolina, and let me tell you this is one of the sweetest little baby’s we could have ever gotten❤️
                             We are so excited to add this little missy to the Doxie Fam out here at L&K Doxies! She is going to be very loved❤️🥰
-                            Thank you both so much for raising baby’s with the best temperament and beauty❤️❤️❤️” </p>
+                            Thank you both so much for raising baby’s with the best temperament and beauty❤️❤️❤️ </p>
                         <p class="reviewAuthor">-Kaydy White</p>
                         </div>
                        
@@ -252,9 +252,9 @@
                         <br>
                         <div class="reviewContent">
                         <p class="reviewPar">    
-                        “I couldn’t have asked for a more perfect experience with Denise McAfee.  Our Roxie is so healthy with a loving personality.  
+                        I couldn’t have asked for a more perfect experience with Denise McAfee.  Our Roxie is so healthy with a loving personality.  
                         Communication was exceptional from start to finish and we were spoiled with all the goodies in our gift bag.  We couldn’t be happier with the transaction. 
-                         She went the extra mile for us with delivery and I highly recommend her to anyone who is interested in an exceptional pet.”</p>
+                         She went the extra mile for us with delivery and I highly recommend her to anyone who is interested in an exceptional pet.</p>
                         <p class="reviewAuthor">-Patty Ostrowski </p>
                         </div>
                        
