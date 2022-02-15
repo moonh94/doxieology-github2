@@ -336,7 +336,24 @@
                         <br>
                         <i class="fas fa-quote-right"></i> 
                     </div>
-
+                    <div class="reviews"><i class="fas fa-quote-left"></i>  
+                        <br>
+                        <br>
+                        <div class="reviewContent">
+                        <img class="reviewImg" src="./assets/img/reviewCerny.jpg"> </img>
+                        <p class="reviewPar">    
+                        After a long search for the right breeder, we found Doxie-ology and Denise McAfee. 
+                        Our precious little girl, Jazmyn is just what our home has been missing. 
+                        Jazz is extremely loving, affectionate and an energetic bundle of joy. 
+                        It was a pleasure working with Denise, as she guided us through the entire process smoothly.
+                        We couldn't be happier.
+                        <p class="reviewAuthor">-Robin and Wayne Cerny</p>
+                        </div>
+                       
+                        <br>
+                        <br>
+                        <i class="fas fa-quote-right"></i> 
+                    </div>
                    
                   
                     </div>
