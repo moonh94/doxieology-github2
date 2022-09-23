@@ -667,7 +667,7 @@
         <div class="parallaxBody parallax4"></div>
 
 
-        <div class="section" id="availPups">
+        <!-- <div class="section" id="availPups">
             <h3 class="title">puppies</h3>
             <section class="stayTuned">
                 <div class="stayTunedParagraph">
@@ -676,7 +676,8 @@
                     </p>
                 </div>
             </section>
-        </div>
+        </div> -->
+
         <!-- <section class="section pups" id="availPups">
                 <div class="row">
                     <div class="col-sm-12">
@@ -1175,7 +1176,7 @@
 
         <div class="parallaxBody parallax5"></div>
 
-        <!-- <div class="section" id="upcoming">
+        <div class="section" id="upcoming">
             <h3 class="title">Upcoming Litters</h3>
 
 
@@ -1185,7 +1186,7 @@
                     <div class="col-sm-12 expectingHB">
                     <br>
                         <p class="expectingDescription">
-                        We are expecting three litters in November 2021 from Beau, Pearl, Honey, and Hope. </p>
+                        Please stay tuned for updates.</p>
                     </div>
                 </div>  
             
@@ -1194,7 +1195,7 @@
 
         </div>
 
-        <div class="parallaxBody parallax6"></div> -->
+        <div class="parallaxBody parallax6"></div>
 
 
         <div class="section" id="contact">

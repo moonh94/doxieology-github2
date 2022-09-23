@@ -36,7 +36,7 @@ $(window).on("scroll", function () {
   });
   
   
-  function navSearch() {
+  function   navSearch() {
     $(".nav-item").on("click", function () {
       $(this).toggleClass("active");
   
