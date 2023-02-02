@@ -1262,7 +1262,11 @@
             <div class="footerLogo">
                 <img src="assets/img/logoFigma.png" alt="logo" class="logoFooter">
                 <br>
-                <p class="cashMethod">Accepting PayPal, Venmo, or cash at pickup.</p>
+                <p class="cashMethod">Accepting PayPal, Venmo, or cash at pickup.
+                    <br>
+                    All deposits are nonrefundable.
+                </p>
+                
                 <br>
 
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
