@@ -474,17 +474,17 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--4">
+                                <div class="card__picture card__picture--6">
                                     &nbsp;
                                 </div>
                                 <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Crimson</span>
+                                    <span class="card__heading-span card__heading-span--1">Truman</span>
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Shaded Red | Short Hair | Miniature</li>
+                                        <li class="list1">Male | Cream | Long Hair | Miniature </li>
                                         <li class="info">
-                                            
+        
                                         </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
@@ -495,7 +495,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-4"> </div>
+                            <div class="card__side card__side--back card__side--back-6"> </div>
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -509,7 +509,7 @@
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Black and Cream | Long Hair </li>
+                                        <li class="list1">Female | Black and Cream Dapple | Long Hair | Miniature </li>
                                         <li class="info">
                                             
                                         </li>
@@ -528,17 +528,17 @@
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card__side card__side--front">
-                                <div class="card__picture card__picture--6">
+                                <div class="card__picture card__picture--4">
                                     &nbsp;
                                 </div>
                                 <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Truman</span>
+                                    <span class="card__heading-span card__heading-span--1">Crimson</span>
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | EE Red | Short Hair </li>
+                                        <li class="list1">Female | Red | Long Hair | Miniature</li>
                                         <li class="info">
-        
+                                            
                                         </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
@@ -549,9 +549,10 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-6"> </div>
+                            <div class="card__side card__side--back card__side--back-4"> </div>
                         </div>
                     </div>
+                   
                     <div class="col-md-2 col-md-2 emptyCol2"></div>
                 </div>
 
@@ -625,7 +626,7 @@
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | EE Red | Short Hair </li>
+                                        <li class="list1">Female | Cream | Long Hair | Miniature</li>
                                         <li class="info">
         
                                         </li>
@@ -656,7 +657,7 @@
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Shaded Red | Short Hair | Miniature</li>
+                                        <li class="list1">Female | Cream | Long Hair | Miniature</li>
                                         
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
@@ -681,7 +682,7 @@
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Black and Cream | Long Hair </li>
+                                        <li class="list1">Female | Red | Long Hair | Miniature </li>
                                         <li class="info">
                                             
                                         </li>
@@ -708,7 +709,7 @@
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Cream | Short Hair </li>
+                                        <li class="list1">Female | Cream | Short Hair | Miniature </li>
                                         <li class="info">
         
                                         </li>
