@@ -55,9 +55,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#parentInfo">Our Dogs</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="#availPups">Puppies</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" href="#upcoming">Upcoming Litters</a>
                 </li>
