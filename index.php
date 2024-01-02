@@ -468,6 +468,7 @@
                     <div class="col-md-2 emptyCol2"></div>
 
                 </div>
+                
                 <div class="row">
                     <div class="col-sm-1 emptyCol1"></div>
                     <div class="col-md-3">
@@ -477,17 +478,13 @@
                                     &nbsp;
                                 </div>
                                 <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--4">Honey</span>
+                                    <span class="card__heading-span card__heading-span--1">Crimson</span>
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Shaded Red | Long Hair | Miniature</li>
+                                        <li class="list1">Female | Shaded Red | Short Hair | Miniature</li>
                                         <li class="info">
-                                            Honey is gorgeous, friendly, gentle, and loving. She loves to lick, be held,
-                                            and make her rounds to love on everyone. She is great with new puppies and
-                                            loves
-                                            them.
-                                            She simply is a wonderful lady and her name "Honey Pot" truly fits her.
+                                            
                                         </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
@@ -498,12 +495,9 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-4">
-
-                            </div>
+                            <div class="card__side card__side--back card__side--back-4"> </div>
                         </div>
                     </div>
-
                     <div class="col-md-3">
                         <div class="card">
                             <div class="card__side card__side--front">
@@ -511,15 +505,13 @@
                                     &nbsp;
                                 </div>
                                 <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Bella</span>
+                                    <span class="card__heading-span card__heading-span--1">Winnie</span>
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | Red | Long Hair | Miniature</li>
+                                        <li class="list1">Female | Black and Cream | Long Hair </li>
                                         <li class="info">
-                                            Daddy's girl, she is a lover and enjoys being held and cuddled. She simply
-                                            loves all people
-                                            and has a huge heart.
+                                            
                                         </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
@@ -530,9 +522,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-5">
-
-                            </div>
+                            <div class="card__side card__side--back card__side--back-5"> </div>
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -542,17 +532,13 @@
                                     &nbsp;
                                 </div>
                                 <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Pearl</span>
+                                    <span class="card__heading-span card__heading-span--1">Truman</span>
                                 </h4>
                                 <div class="card__details">
                                     <ul>
-                                        <li class="list1">Female | EE Cream | Long Hair | Miniature</li>
+                                        <li class="list1">Female | EE Red | Short Hair </li>
                                         <li class="info">
-                                            Quiet, loving, and gentle. Our Southern Belle. She is very confident and
-                                            loves to be by herself.
-                                            An absolute dream dog who has earned the nickname "Whirly Girly" for her
-                                            carefree spirit.
-                                            She is our Lady of the House!
+        
                                         </li>
                                         <li>
                                             <button class="flipBtn" onclick="flipCard()">
@@ -563,16 +549,13 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="card__side card__side--back card__side--back-6">
-
-                            </div>
+                            <div class="card__side card__side--back card__side--back-6"> </div>
                         </div>
                     </div>
-                    <div class="col-sm-2 emptyCol2"></div>
-                    
-
+                    <div class="col-md-2 col-md-2 emptyCol2"></div>
                 </div>
-                <div class="row">
+
+                 <div class="row">
                     <div class="col-sm-1 emptyCol1"></div>
                     <div class="col-md-3">
                         <div class="card">
@@ -638,7 +621,7 @@
                                     &nbsp;
                                 </div>
                                 <h4 class="card__heading">
-                                    <span class="card__heading-span card__heading-span--1">Shelby</span>
+                                    <span class="card__heading-span card__heading-span--1">Lady</span>
                                 </h4>
                                 <div class="card__details">
                                     <ul>
@@ -660,7 +643,89 @@
                     </div>
                     <div class="col-md-2 col-md-2 emptyCol2"></div>
                 </div>
-
+                <div class="row">
+                    <div class="col-sm-1 emptyCol1"></div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card__side card__side--front">
+                                <div class="card__picture card__picture--10">
+                                    &nbsp;
+                                </div>
+                                <h4 class="card__heading">
+                                    <span class="card__heading-span card__heading-span--1">Duchess</span>
+                                </h4>
+                                <div class="card__details">
+                                    <ul>
+                                        <li class="list1">Female | Shaded Red | Short Hair | Miniature</li>
+                                        
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back-10"> </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card__side card__side--front">
+                                <div class="card__picture card__picture--11">
+                                    &nbsp;
+                                </div>
+                                <h4 class="card__heading">
+                                    <span class="card__heading-span card__heading-span--1">Isabella</span>
+                                </h4>
+                                <div class="card__details">
+                                    <ul>
+                                        <li class="list1">Female | Black and Cream | Long Hair </li>
+                                        <li class="info">
+                                            
+                                        </li>
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back-11"> </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card__side card__side--front">
+                                <div class="card__picture card__picture--12">
+                                    &nbsp;
+                                </div>
+                                <h4 class="card__heading">
+                                    <span class="card__heading-span card__heading-span--1">Sugar</span>
+                                </h4>
+                                <div class="card__details">
+                                    <ul>
+                                        <li class="list1">Female | Cream | Short Hair </li>
+                                        <li class="info">
+        
+                                        </li>
+                                        <li>
+                                            <button class="flipBtn" onclick="flipCard()">
+                                                Click For More!
+                                                <i class="fas fa-angle-double-right"></i>
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card__side card__side--back card__side--back-12"> </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-md-2 emptyCol2"></div>
+                </div>
             </section>
         </div>
 
@@ -735,7 +800,8 @@
                     </div>
                 </div>
                 </section> -->
-        <section class="section pups" id="availPups">
+     
+             <!-- <section class="section pups" id="availPups">
         <div class="row">
                 <div class="col-sm-12">
                         <p>Meet the puppies from Honey, Hope, and Pearl.</p>
@@ -811,370 +877,14 @@
                     </div>
                     <div class="col-sm-2"></div>
         </div>
-            <div class="row">
-                    <div class="col-sm-4">
-                        <img src="assets/img/dec2021p4-2.jpg" alt="pup4" class="expectingPic1">
-                        <br>
-                        <div class="decPupsDetails">
-                                    <ul>
-                                        <li>Male</li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Reserved</li>
-                                    </ul>
-                             </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <img src="assets/img/dec2021p5-2.jpg" alt="pup5" class="expectingPic1">
-                        <br>
-                        <div class="decPupsDetails">
-                                    <ul>
-                                        <li>Male</li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Reserved</li>
-                                    </ul>
-                             </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <img src="assets/img/dec2021p6.jpg" alt="pup6" class="expectingPic1">
-                        <br>
-                            <div class="decPupsDetails">
-                                    <ul>
-                                        <li>Male</li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Reserved</li>
-                                    </ul>
-                             </div>
-                    </div>
-                 </div>
-                <br>
-                <br>
-    
-            
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="litterParents">
-                        <img src="assets/img/honey'sLitter-1.jpg" alt="honey's litter" class="expectingPic1">
-                        <br>
-                        <p>Meet Honey and Beau's puppies.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-1"></div>
-                                <div class="card__details">
-                                    <ul>
-
-                                        <li>Female </li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Sold</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-1"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-2"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Red | Long Hair</li>
-                                        <li>Sold</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-2"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-3"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Red | Long Hair</li>
-                                        <li>Sold</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-3"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-2"></div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-4"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male </li>
-                                        <li>Red | Long Hair</li>
-                                        <li>Sold</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-4"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__pictureHoney-5"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male</li>
-                                        <li>Cream | Long Hair</li>
-                                        <li>Sold</li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--backHoney-5"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-2"></div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="litterParents">
-                        <img src="./assets/img/bellaDonte-1.jpg" alt="bellaAndDonte" class="expectingPic1"></img>
-                        <br>
-                        <p>Meet Bella and Donte's puppies. </p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="row">
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--1"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-1"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--2"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-2"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--3"></div>
-                                
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-3"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--4"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-4"></div>
-                        </div>
-                    </div>
-                 </div>
-                 <div class="row">
-                    <div class="col-sm-12">
-                        <div class="litterParents">
-                        <img src="./assets/img/duncanPearl.jpg" alt="duncanAndPearl" class="expectingPic1"></img>
-                        <br>
-                        <p>Meet Pearl and Duncan's puppies </p>
-                        </div>
-                    </div>
-                    </div>
-                    <div class="row">
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--5"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-5"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--6"></div>
-                                
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Female </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-6"></div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--7"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male</li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-7"></div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="card" id="flip-card">
-                            <div class="card__side card__side--front flip-card-front">
-                                <div class="card__picture2 card__picture2--8"></div>
-                                <div class="card__details">
-                                    <ul>
-                                        <li>Male </li>
-                                        <li>Sold</li>
-                                        <li>
-                                            <button class="flipBtn" onclick="flipCard()">
-                                                Click For More!
-                                                <i class="fas fa-angle-double-right"></i>
-                                            </button>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="card__side card__side--back card__side--back2-8"></div>
-                        </div>
-                    </div>
+        
+ 
                     </div>  
-          </section>
+          </section>  -->
 
-        </div>
+        <!-- </div> -->
 
-        <div class="parallaxBody parallax5"></div>
+        <!-- <div class="parallaxBody parallax5"></div> -->
 
         <div class="section" id="upcoming">
             <h3 class="title">Upcoming Litters</h3>

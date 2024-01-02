@@ -512,13 +512,13 @@ footer {
             background-image:url(../img/beau4-1.jpg);
     }
 .card__side--back-4 {
-        background-image:url(../img/honey2.jpg);
+        background-image:url(../img/crimson1.jpg);
     }
 .card__side--back-5 {
-        background-image:url(../img/bella3.jpg);
+        background-image:url(../img/winnie2.jpg);
     }
 .card__side--back-6 {
-        background-image:url(../img/pearl2cropped.jpg);
+        background-image:url(../img/truman1.jpg);
     }
 .card__side--back-7 {
         background-image:url(../img/hopeBack.jpg);
@@ -529,7 +529,16 @@ footer {
         background-image:url(../img/lunaBack.jpg);
 }
 .card__side--back-9{
-        background-image:url(../img/shelbyBack.jpg);
+        background-image:url(../img/LadyEdit.jpg);
+    }
+.card__side--back-10{
+        background-image:url(../img/duchess.jpg);
+    }
+.card__side--back-11{
+        background-image:url(../img/isabella.jpg);
+    }
+.card__side--back-12{
+        background-image:url(../img/sugar.jpg);
     }
 
 .card__picture {
@@ -557,15 +566,15 @@ footer {
            
           }
 .card__picture--4{
-    background-image: url(../img/honey4-1.jpg);
+    background-image: url(../img/crimson3Edit.jpg);
            
           }
 .card__picture--5{
-    background-image: url(../img/bella4Edit-1.jpg);
+    background-image: url(../img/winnieEdit.jpg);
            
           }     
 .card__picture--6{
-    background-image: url(../img/pearl5Edit-1.jpg);
+    background-image: url(../img/truman2Edit.jpg);
            
           }
 .card__picture--7{
@@ -576,9 +585,17 @@ footer {
     background-image: url(../img/lunaFront.jpg);
 }
 .card__picture--9{
-    background-image: url(../img/shelbyFront.jpg);
+    background-image: url(../img/LadyEdit2.jpg);
 }
+.card__picture--10{
+    background-image: url(../img/duchess.jpg);
 
+}.card__picture--11{
+    background-image: url(../img/isabellaEdit.jpg);
+
+}.card__picture--12{
+    background-image: url(../img/sugarEdit.jpg);
+}
 
 .card__picture2 {
     background-size: contain;
