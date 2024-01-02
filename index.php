@@ -37,7 +37,7 @@
             <a href="#home">Home</a>
             <a href="#aboutUs">About Us</a>
             <a href="#parentInfo">Our Dogs</a>
-            <a href="#availPups">Puppies</a>
+            <!-- <a href="#availPups">Puppies</a> -->
             <a href="#upcoming">Upcoming Litters</a>
             <a href="#contact">Contact Us</a>
         </div>
