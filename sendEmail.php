@@ -22,14 +22,14 @@ if (!empty($_POST['sweetnerPot'])) {
           $mail->isSMTP(true);
           $mail->Host = "smtp.gmail.com";
           $mail->SMTPAuth = true;
-          $mail->Username = "han.moon522@gmail.com";
-          $mail->Password = "wvoqfrzrilnksutr";
+          $mail->Username = "doxieology2019@gmail.com";
+          $mail->Password = "exyatvvlerziowim";
           $mail->Port = 465;
           $mail->SMTPSecure = "ssl";
         
           $mail->isHTML(true);
         $mail->SetFrom($email, $name);
-        $mail->addAddress("han.moon522@gmail.com");
+        $mail->addAddress("doxieology2019@gmail.com");
         $mail->Subject = ("$name ($email) ($subject)");
         $mail->Body = $body;
         if($mail->send()){
