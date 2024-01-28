@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +10,7 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
         crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
         integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
         crossorigin="anonymous"></script>
@@ -24,7 +27,12 @@
 
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon" />
+
+
     <title>Doxie-ology</title>
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>
 <body>
     
@@ -911,6 +919,8 @@
 
         <div class="section" id="contact">
             <h3 class="title">Contact Us</h3>
+
+
             <hr class="hrContact1">
             <section class="contact--1">
                 <div class="row">
@@ -933,34 +943,48 @@
                         </div>
                     </div>
                 
-                        
+
+            
                     <div class="col-sm-7">
                         <h4 class="sent-notification"></h4>
                         <form id= "contactFormEmail" class="contactForm" method="post" action="sendEmail.php">
+                      
+
                             <div class="form-group">
                                     <label for="name"></label>
-                                    <input id="name" type="text" name="name" class="form-control"  placeholder="Name" size="50">
+                                    <input id="name" type="text" name="name" class="form-control"  placeholder="Name" size="50"
+                                   >
                             </div>
-                             
-                            <div class="form-group">
+
+                             <div class="form-group">
                                 <label for="name"></label>
-                                <input id="email" type="text" name="email" class="form-control" placeholder="Email" size="15">
+                                <input id="email" type="text" name="email" class="form-control" placeholder="Email" size="15"
+                              >
                                 </div>
 
                             <div class="form-group">
                                 <label for="name"></label>
-                                <input id="subject" type="text" name="subject" class="form-control"  placeholder="Subject" size="15">
+                                <input id="subject" type="text" name="subject" class="form-control"  placeholder="Subject" size="15"
+                               >
                             </div>
 
+                            <div class="sweetnerPot">
+                                <label for="sweetnerPot" aria-hidden="true" class="visually-hidden"></label>
+                                    <input id="sweetnerPot" type="text" name="sweetnerPot"  placeholder="Date" size="15">
+                            </div>
+            
                             <div class="form-group">
                                 <label for="message"></label>
-                                <textarea id="body" name="body" class="form-control" size="800" placeholder="Message" rows="5"></textarea>
+                                <textarea id="body" name="body" class="form-control" size="800" placeholder="Message" rows="5" 
+                                ></textarea>
                             </div>
-
-                            <button class="button" type="button"  onclick="sendEmail()" value="Send An Email">Send</button>
+                            <div class="g-recaptcha" data-sitekey="6LdCmF4pAAAAAIUdkSa-Vliqi9vPnqE5sdGKB06F"></div> <!-- Add your reCAPTCHA site key -->
+                        
+                            <br>
+                            <button class="button" type="button"  onclick="sendEmail()" value="Send An Email">Submit</button>
                             
                         </form>
-
+                       <div id="response"></div> 
                         
                     </div>
                 </div>

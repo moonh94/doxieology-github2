@@ -82,44 +82,212 @@ $(window).on("scroll", function () {
     document.getElementById("mySidepanel").style.width = "0";
     document.getElementById("mySidepanel").style.display = "none";
   }
+
+
+// working code with honeypot before recaptcha
+// function sendEmail(){
+//     var name = $("#name");
+//     var email = $("#email");
+//     var subject = $("#subject");
+//     var body = $("#body");
+//     var honeypot = $("#sweetnerPot");
+    
+//     if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(body) && isHoneypotEmpty(honeypot)) {
+//       $.ajax({ 
+//         url: 'sendEmail.php',
+//         method: 'POST',
+//         dataType: 'json',
+//         data:{
+//           name: name.val(),
+//           email: email.val(),
+//           subject: subject.val(),
+//           body: body.val(),
+
+//         }, 
+//         success: function(response){
+//           $('#contactFormEmail')[0].reset();
+//           $('.sent-notification').text("Message sent successfully.");
+//         },
+//         error: function(xhr, status, error) {
+//           console.error(xhr.responseText);
+//       }
+//     });
+
+//     }
+//   }
   
-  function sendEmail(){
+//   function isHoneypotEmpty(honeypot) {
+//     if (honeypot.val()!== "") {
+//         // alert("Bot detected!"); // Display an alert or take appropriate action
+//         return false;
+//     } else {
+//         return true;
+//     }
+//   }
+
+//   function isNotEmpty(caller){
+//      if(caller.val()==""){
+//        caller.css('border', '1px solid red');
+//        return false;
+
+//      }
+//      else {
+//        caller.css('border', '');
+//        return true;
+//      }
+//    }
+
+  //  function sendEmail(){
+  //   var name = $("#name");
+  //   var email = $("#email");
+  //   var subject = $("#subject");
+  //   var body = $("#body");
+  //   var honeypot = $("#sweetnerPot");
+  //   var response = grecaptcha.getResponse();
+    
+  //   if (response.length == 0) {
+  //     alert("Please complete the reCAPTCHA!");
+  //     return false;
+  // }
+
+  //   if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(body) && isHoneypotEmpty(honeypot)) {
+  //     $.ajax({ 
+  //       url: 'sendEmail.php',
+  //       method: 'POST',
+  //       dataType: 'json',
+  //       data:{
+  //         name: name.val(),
+  //         email: email.val(),
+  //         subject: subject.val(),
+  //         body: body.val(),
+
+  //       }, 
+  //       success: function(response){
+  //         $('#contactFormEmail')[0].reset();
+  //         $('.sent-notification').text("Message sent successfully.");
+  //       },
+  //       error: function(xhr, status, error) {
+  //         console.error(xhr.responseText);
+  //     }
+  //   });
+
+  //   }
+  // }
+  
+  // function isHoneypotEmpty(honeypot) {
+  //   if (honeypot.val()!== "") {
+  //       // alert("Bot detected!"); // Display an alert or take appropriate action
+  //       return false;
+  //   } else {
+  //       return true;
+  //   }
+  // }
+
+  // function isNotEmpty(caller){
+  //    if(caller.val()==""){
+  //      caller.css('border', '1px solid red');
+  //      return false;
+
+  //    }
+  //    else {
+  //      caller.css('border', '');
+  //      return true;
+  //    }
+  //  }
+
+  // code with recaptcha and honeypot aka sweetnerPot
+  function sendEmail() {
     var name = $("#name");
     var email = $("#email");
     var subject = $("#subject");
     var body = $("#body");
-
-    if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(body)) {
-      $.ajax({
-        url: 'sendEmail.php',
-        method: 'POST',
-        dataType: 'json',
-        data:{
-          name: name.val(),
-          email: email.val(),
-          subject: subject.val(),
-          body: body.val(),
-
-        }, success: function(response){
-          $('#contactFormEmail')[0].reset();
-          $('.sent-notification').text("Message sent successfully.");
-        }
-        
-      });
-
+    var honeypot = $("#sweetnerPot");
+    var response = grecaptcha.getResponse();
+    
+    if (response.length == 0) {
+        alert("Please complete the reCAPTCHA!");
+        return false;
     }
-   function isNotEmpty(caller){
-     if(caller.val()==""){
-       caller.css('border', '1px solid red');
-       return false;
+    
+    if (isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(body) && isHoneypotEmpty(honeypot)) {
+        $.ajax({
+            url: 'sendEmail.php',
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                name: name.val(),
+                email: email.val(), 
+                subject: subject.val(),
+                body: body.val(),
+                recaptchaResponse: response // Include reCAPTCHA response in the data sent to sendEmail.php
+            },
+            success: function(response) {
+                $('#contactFormEmail')[0].reset();
+                $('.sent-notification').text("Message sent successfully.");
+            },
+            error: function(xhr, status, error) {
+                console.error(xhr.responseText);
+            }
+        });
+    }
+}
 
-     }
-     else {
-       caller.css('border', '');
-       return true;
-     }
-   }
-  }
-  
+function isHoneypotEmpty(honeypot) {
+    if (honeypot.val() !== "") {
+        // Bot detected, handle accordingly
+        return false;
+    } else {
+        return true;
+    }
+}
 
- 
+function isNotEmpty(caller) {
+    if (caller.val() == "") {
+        caller.css('border', '1px solid red');
+        return false;
+    } else {
+        caller.css('border', '');
+        return true;
+    }
+}
+
+
+  // working code for sending email before recaptcha and honeypot
+  // function sendEmail(){
+  //   var name = $("#name");
+  //   var email = $("#email");
+  //   var subject = $("#subject");
+  //   var body = $("#body");
+
+  //   if(isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(subject) && isNotEmpty(body)) {
+  //     $.ajax({
+  //       url: 'sendEmail.php',
+  //       method: 'POST',
+  //       dataType: 'json',
+  //       data:{
+  //         name: name.val(),
+  //         email: email.val(),
+  //         subject: subject.val(),
+  //         body: body.val(),
+
+  //       }, success: function(response){
+  //         $('#contactFormEmail')[0].reset();
+  //         $('.sent-notification').text("Message sent successfully.");
+  //       }
+        
+  //     });
+
+  //   }
+  //  function isNotEmpty(caller){
+  //    if(caller.val()==""){
+  //      caller.css('border', '1px solid red');
+  //      return false;
+
+  //    }
+  //    else {
+  //      caller.css('border', '');
+  //      return true;
+  //    }
+  //  }
+  // }
+
