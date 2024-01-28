@@ -978,7 +978,7 @@
                                 <textarea id="body" name="body" class="form-control" size="800" placeholder="Message" rows="5" 
                                 ></textarea>
                             </div>
-                            <div class="g-recaptcha" data-sitekey="6LdCmF4pAAAAAIUdkSa-Vliqi9vPnqE5sdGKB06F"></div> <!-- Add your reCAPTCHA site key -->
+                            <!-- <div class="g-recaptcha" data-sitekey="6LdCmF4pAAAAAIUdkSa-Vliqi9vPnqE5sdGKB06F"></div> Add your reCAPTCHA site key -->
                         
                             <br>
                             <button class="button" type="button"  onclick="sendEmail()" value="Send An Email">Submit</button>
